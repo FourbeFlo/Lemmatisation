@@ -1,0 +1,13 @@
+
+#liste des mots mal ortographiés : problème d'OCR
+
+Id, 	Form, 	Lemma, 	POS, 	Morph, 	Context,	
+39, 	adhue, 	adhuc, 	ADV, 	MORPH=empty, 	Disciplinæ Ecelesiasticæ vestigia tũc adhue ( et si tamẽ,
+73, 	posterioni, 	posterus, 	ADJqua, 	Case=Nom|Numb=Plur|Gend=Com|Deg=Comp, 	perspicient omnes quantùm posterioni ætate Romana Ecelesia etiã,
+155, 	Etus, 	uetus, 	ADJqua 	Case=Nom|Numb=Sing, 	pacem à Domino . (V)Etus est illud  Princeps 
+201, 	feparatione, 	separatio, 	NOMcom 	Case=Abl|Numb=Sing, 	et nulla partium apta feparatione distinctum ? Certè quocunque 
+208, 	ocuIos, 	oculus, 	NOMcom 	Case=Acc|Numb=Plur, 	Certè quocunque nõ tantum oculos  sed omnes animisensus
+245, 	vrilitatem, 	utilitas, 	NOMcom 	Case=Acc|Numb=Sing, 	apparebũt : ea neque vrilitatem neque venustatem aliquam
+257, 	ilIis, ille, 	PROdem 	Case=Abl|Numb=Plur|Gend=Com 	, tantûmque {tantûmque} ab ilIis oculorum animique {animique} 
+333, 	verũesse, 	uerum esse, 	VER 	MORPH=empty 	hominũ industria efficiũtur , verũesse ipsa rerum ex perientia 
+338, 	perientia, 	experientia, 	NOMcom 	Case=Abl|Numb=Sing 	esse ipsa rerum ex perientia , et publica mortalium 

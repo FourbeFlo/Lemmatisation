@@ -1,0 +1,8 @@
+liste de question concernant la lemmatisation 
+- 15.02.2024
+-Le cas des mots annoncés dans la lemmatisation doit être le cas du mot à cet endroit précis du contexte?
+-est-ce que je peux corriger les mots mal entré dans la lemmatisation (les fautes d'OCR)
+
+
+
+#liste des mots mal ortographiés : problème d'OCR cf OCR_Fail.csv
