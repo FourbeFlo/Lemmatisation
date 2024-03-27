@@ -1,25 +1,31 @@
 
 #liste des mots mal ortographiés : problème d'OCR
 
-Id,	Form,	Lemma,	POS,	Morph,	Context	
-39,	adhue,	adhuc,	ADV,	MORPH=empty,	Disciplinæ Ecelesiasticæ vestigia tũc adhue ( et si tamẽ
-73,	posterioni,	posterus,	ADJqua,	Case=Nom|Numb=Plur|Gend=Com|Deg=Comp,	perspicient omnes quantùm posterioni ætate Romana Ecelesia etiã
-155, Etus,	uetus,	ADJqua,	Case=Nom|Numb=Sing,	pacem à Domino . (V)Etus est illud  Princeps
-201, feparatione,	separatio,	NOMcom,	Case=Abl|Numb=Sing,	et nulla partium apta feparatione distinctum ? Certè quocunque
-208, ocuIos,	oculus,	NOMcom,	Case=Acc|Numb=Plur,	Certè quocunque nõ tantum oculos  sed omnes animisensus
-245, vrilitatem,	utilitas,	NOMcom,	Case=Acc|Numb=Sing,	apparebũt : ea neque vrilitatem neque venustatem aliquam
-257, ilIis, ille,	PROdem,	Case=Abl|Numb=Plur|Gend=Com,	tantûmque {tantûmque} ab ilIis oculorum animique {animique},
-333, verũesse,	uerum esse,	VER,	MORPH=empty,	hominũ industria efficiũtur  verũesse ipsa rerum ex perientia
-338, perientia,	experientia,	NOMcom,	Case=Abl|Numb=Sing,	esse ipsa rerum ex perientia  et publica mortalium
-541, siæ,	sius,	PROpos.ref,	Case=Gen|Numb=Sing|Gend=Fem,	ipsiúsque {ipsiúsque} Eccle siæ suæ fundamentũ necessaria
-569, Ecclesiæ,	ecclesia,	ADJqua,	Case=Gen|Numb=Sing|Gend=Fem,	pars ad veræ Ec clesiæ constitutionem necessaria
-687, Ecclesiastic,	Ecclesiasticus,	ADV,	Case=Gen|Numb=Sing|Deg=Pos	, quę disciplinæ Ecclesiastic æ præcepta tradit
-741, polsit,	possum1,	VER,	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3,	satis iã intelligi possit . Erit enim
-887, negligẽdámue,	negligedo,	ADJqua ,	Case=Acc|Numb=Sing|Gend=Fem,	quis eam spernendam negligẽdámue {negligẽdámue} vnquã existimauerit
-887, negligẽdámue,	negligo,	VER,	Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass,	quis eam spernendam negligẽdámue {negligẽdámue} vnquã existimauerit
-956, ministritẽpli,	ministritaplum,	NOMcom,	Case=Abl|Numb=Sing|Deg=Pos,	ex ea sola ministritẽpli tẽpli eligantur :
-1058, ctè,	cres,	ADV,	Numb=Sing,	omnino ad re ctè constituendam regendámque {regendámque}
-1090, episto,	epistola,	NOMcom,	Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act,	ex prima Pauli episto la ad Corint
-1093, hios,	hic1,	PROdem,	Case=Acc|Numb=Plur|Gend=Masc,	epistola ad Corinthios hios ex hac	
-1097, Timot,	Timot,	NOMcom,	Case=Acc|Numb=Sing,	ex hac ad Timot heum et
-1120, clesiasticam,	clesiasticus,	ADJqua,	Case=Acc|Numb=Sing|Deg=Pos, et disciplinam clesiasticam maximè pertinet ,
+Id,Form,Lemma,POS,Morph,Context
+39,adhue,adhuc,ADV,MORPH=empty,Disciplinæ Ecelesiasticæ vestigia tũc adhue ( et si tamẽ
+73,posterioni,posterus,ADJqua,Case=Nom|Numb=Plur|Gend=Com|Deg=Comp,perspicient omnes quantùm posterioni ætate Romana Ecelesia etiã
+155,Etus,uetus,ADJqua,Case=Nom|Numb=Sing,pacem à Domino . (V)Etus est illud  Princeps
+201,feparatione,separatio,NOMcom,Case=Abl|Numb=Sing,et nulla partium apta feparatione distinctum ? Certè quocunque
+208,ocuIos,oculus,NOMcom,Case=Acc|Numb=Plur,Certè quocunque nõ tantum oculos  sed omnes animisensus
+245,vrilitatem,utilitas,NOMcom,Case=Acc|Numb=Sing,apparebũt : ea neque vrilitatem neque venustatem aliquam
+257,ilIis,ille,PROdem,Case=Abl|Numb=Plur|Gend=Com,tantûmque {tantûmque} ab ilIis oculorum animique {animique},
+333,verũesse,uerum esse,VER,MORPH=empty,hominũ industria efficiũtur  verũesse ipsa rerum ex perientia
+338,perientia,experientia,NOMcom,Case=Abl|Numb=Sing,esse ipsa rerum ex perientia  et publica mortalium
+541,siæ,sius,PROpos.ref,Case=Gen|Numb=Sing|Gend=Fem,ipsiúsque {ipsiúsque} Eccle siæ suæ fundamentũ necessaria
+569,Ecclesiæ,ecclesia,ADJqua,Case=Gen|Numb=Sing|Gend=Fem,pars ad veræ Ec clesiæ constitutionem necessaria
+687,Ecclesiastic,Ecclesiasticus,ADV,Case=Gen|Numb=Sing|Deg=Pos,quę disciplinæ Ecclesiastic æ præcepta tradit
+741,polsit,possum1,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3,satis iã intelligi possit . Erit enim
+887,negligẽdámue,negligedo,ADJqua,Case=Acc|Numb=Sing|Gend=Fem,quis eam spernendam negligẽdámue {negligẽdámue} vnquã existimauerit
+887,negligẽdámue,negligo,VER,Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass,quis eam spernendam negligẽdámue {negligẽdámue} vnquã existimauerit
+956,ministritẽpli,ministritaplum,NOMcom,Case=Abl|Numb=Sing|Deg=Pos,ex ea sola ministritẽpli tẽpli eligantur :
+1058,ctè,cres,ADV,Numb=Sing,omnino ad re ctè constituendam regendámque {regendámque}
+1090,episto,epistola,NOMcom,Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act,ex prima Pauli episto la ad Corint
+1093,hios,hic1,PROdem,Case=Acc|Numb=Plur|Gend=Masc,epistola ad Corinthios hios ex hac
+1097,Timot,Timot,NOMcom,Case=Acc|Numb=Sing,ex hac ad Timot heum et
+1120,clesiasticam,clesiasticus,ADJqua,Case=Acc|Numb=Sing|Deg=Pos,et disciplinam clesiasticam maximè pertinet,
+1189,pre,pres,NOMcom, 	MORPH=empty,et ignorantia eorum pre ceptorumquæ
+1214, 	sper, 	sper, 	PRE, 	Case=Nom, 	hæc diuina præcepta sper nerẽt homines , 
+1254, 	uo, 	uos, 	NOMcom, 	Case=Abl|Numb=Sing|Gend=MascNeut, 	et in nouo uo Testamento disciplina hæc 
+1259, 	ca, 	cabo, 	CONsub, 	Numb=Sing, 	disciplina hæc Ecclesiastica ca tam accuratè tradita 
+1302, 	gene, 	gene, 	NOMcom, 	Case=Abl|Numb=Sing, quarũ alia gene ralẽ tantũ Ecclesiæ 
+1384 	cõ 	con 	ADVrel 	Numb=Sing 	4 . capita cõ plecti videtur : 

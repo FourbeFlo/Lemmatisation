@@ -12,3 +12,6 @@ negligẽdámue la particule intérogative ue?
 exemple d'erreur 
 1098 	heum 	heus 	INJ 	Case=Acc 	hac ad Timotheum heum , et vna 
 qui entraine une fausse identification du lemme
+
+-27.03.2024
+% attentions au | que l'ocr reconnaît comme des l. 
