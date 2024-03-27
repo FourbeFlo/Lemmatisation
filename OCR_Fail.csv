@@ -28,4 +28,6 @@ Id,Form,Lemma,POS,Morph,Context
 1254, 	uo, 	uos, 	NOMcom, 	Case=Abl|Numb=Sing|Gend=MascNeut, 	et in nouo uo Testamento disciplina hæc 
 1259, 	ca, 	cabo, 	CONsub, 	Numb=Sing, 	disciplina hæc Ecclesiastica ca tam accuratè tradita 
 1302, 	gene, 	gene, 	NOMcom, 	Case=Abl|Numb=Sing, quarũ alia gene ralẽ tantũ Ecclesiæ 
-1384 	cõ 	con 	ADVrel 	Numb=Sing 	4 . capita cõ plecti videtur : 
+1384, 	cõ, 	con, 	ADVrel, 	Numb=Sing, 	4 . capita cõ plecti videtur : 
+1652, 	tẽ, 	tu, 	PROper, 	Case=Acc|Numb=Sing 	vrbe , certo tẽ tẽpore  nẽpe 
+1962, 	siæ, 	siue2, 	CONsub, 	Case=Gen|Numb=Sing|Gend=Fem, 	quisquam negotia Ecclesiæ siæ gerat : sit 
