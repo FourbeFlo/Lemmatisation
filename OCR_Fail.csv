@@ -31,3 +31,8 @@ Id,Form,Lemma,POS,Morph,Context
 1384, 	cõ, 	con, 	ADVrel, 	Numb=Sing, 	4 . capita cõ plecti videtur : 
 1652, 	tẽ, 	tu, 	PROper, 	Case=Acc|Numb=Sing 	vrbe , certo tẽ tẽpore  nẽpe 
 1962, 	siæ, 	siue2, 	CONsub, 	Case=Gen|Numb=Sing|Gend=Fem, 	quisquam negotia Ecclesiæ siæ gerat : sit 
+2072, 	va, 	ualeo, 	NOMcom, 	Numb=Plur 	, dicimus illas va variari posse
+2233, 	Ecclesi, 	Ecclesis, 	NOMpro, 	Case=Dat|Numb=Sing, 	Denique modo sit Ecclesi aet Dei domus   
+2254,Eoclesijs, 	ecclesia, 	NOMcom, 	Case=Abl|Numb=Plur,  	disciplinæ vbique in Eoclesijs Dei eadem esse 
+2393 	vocationem 	uocatio 	NOMcom 	Case=Acc|Numb=Sing 	esse debent legitimam vocat  ionem habeant . Postea 
+2405 	conuer 	conuero 	VER 	Numb=Sing|Person=1 	et ad pœnitentiam conuer sionémque {sionémque} ad 

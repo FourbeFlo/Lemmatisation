@@ -15,3 +15,6 @@ qui entraine une fausse identification du lemme
 
 -27.03.2024
 % attentions au | que l'ocr reconnaît comme des l. 
+-29.03.2024
+les mots billingue?
+in quibus commoditas incommoditâsque praxeωs, vsus, et executionis disciplinæ 
