@@ -34,5 +34,6 @@ Id,Form,Lemma,POS,Morph,Context
 2072, 	va, 	ualeo, 	NOMcom, 	Numb=Plur 	, dicimus illas va variari posse
 2233, 	Ecclesi, 	Ecclesis, 	NOMpro, 	Case=Dat|Numb=Sing, 	Denique modo sit Ecclesi aet Dei domus   
 2254,Eoclesijs, 	ecclesia, 	NOMcom, 	Case=Abl|Numb=Plur,  	disciplinæ vbique in Eoclesijs Dei eadem esse 
-2393 	vocationem 	uocatio 	NOMcom 	Case=Acc|Numb=Sing 	esse debent legitimam vocat  ionem habeant . Postea 
-2405 	conuer 	conuero 	VER 	Numb=Sing|Person=1 	et ad pœnitentiam conuer sionémque {sionémque} ad 
+2393, 	vocationem, 	uocatio, 	NOMcom, 	Case=Acc|Numb=Sing, 	esse debent legitimam vocat  ionem habeant . Postea 
+2405, 	conuer, 	conuero, 	VER, 	Numb=Sing|Person=1, 	et ad pœnitentiam conuer sionémque {sionémque} ad 
+2447, 	rũ, 	rus, 	NOMcom, 	Case=Abl|Numb=Sing, 	solus conscientiarũ nostra rũ legitimus gubernator , 
