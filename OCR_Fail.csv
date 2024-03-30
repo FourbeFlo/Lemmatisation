@@ -37,3 +37,8 @@ Id,Form,Lemma,POS,Morph,Context
 2393, 	vocationem, 	uocatio, 	NOMcom, 	Case=Acc|Numb=Sing, 	esse debent legitimam vocat  ionem habeant . Postea 
 2405, 	conuer, 	conuero, 	VER, 	Numb=Sing|Person=1, 	et ad pœnitentiam conuer sionémque {sionémque} ad 
 2447, 	rũ, 	rus, 	NOMcom, 	Case=Abl|Numb=Sing, 	solus conscientiarũ nostra rũ legitimus gubernator , 
+2862, 	cõciIiis, 	concilium, 	NOMcom, 	Case=Abl|Numb=Plur, 	quæ vocãt  cõciIiis hoc quoque potest 
+2884, 	nicæ, 	nicae, 	NOMcom, 	Case=Dat|Numb=Sing, 	Synodi illæ Oecume nicæ contra præscriptam verbo 
+2888, 	disci, 	disco, 	NOMcom, 	Numb=Sing, 	præscriptam verbo Dei disci plinæ Ecclesiasticæ οὐσίαν 
+2895, ciuerunt, 	ciuesco, 	VER, 	Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3, et san ciuerunt : quanquam se 
+2999, 	sæpeinobis, 	saepeino, 	VER, 	Numb=Sing, 	et quæ tamen sæpeinobis obiicitur ingenuè 
