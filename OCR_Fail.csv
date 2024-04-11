@@ -42,5 +42,20 @@ Id,Form,Lemma,POS,Morph,Context
 2888, 	disci, 	disco, 	NOMcom, 	Numb=Sing, 	præscriptam verbo Dei disci plinæ Ecclesiasticæ οὐσίαν 
 2895, ciuerunt, 	ciuesco, 	VER, 	Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3, et san ciuerunt : quanquam se 
 2999, 	sæpeinobis, 	saepeino, 	VER, 	Numb=Sing, 	et quæ tamen sæpeinobis obiicitur ingenuè 
-3052 	Ec 	ec 	CONcoo 	MORPH=empty 	veras esse Dei Ec clesias . Vnica 
-3093 	mneģ 	nneg 	PROpos 	Numb=Sing 	Christi , Oues mneģ vocẽ meã audiunt 
+3052, 	Ec, 	ec, 	CONcoo, 	MORPH=empty, 	veras esse Dei Ec clesias . Vnica 
+3093, 	mneģ, 	nneg, 	PROpos, 	Numb=Sing 	Christi , Oues mneģ vocẽ meã audiunt 
+3135, 	Ecclesię, 	ec, 	CONcoo, 	MORPH=empty, ad veræ Ecclesię clesię designationẽ à 
+3139, 	pronuntiã, 	pronuntio, 	VER, 	Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2 	designationẽ à nõnullis pronuntiã tur , ostendũt 
+3191, 	igittir, 	igittir, 	CONcoo, 	MORPH=empty, 	praxis . Sũt igittir huiusmodi Ecclesię quidem 
+3211, 	le, 	lego?, 	NOMcom, 	Case=Nom|Numb=Sing, Sic il le à nobis dicitur 
+3226, 	ratiocina, 	ratiocinus, 	ADJqua, 	Case=Abl|Numb=Sing|Deg=Pos, 	modò idem ille ratiocina tur . Sed 
+3252, 	vetbum, 	uetubus, 	NOMcom, 	Case=Acc|Numb=Sing 	, verum Dei vetbum et vitæ æternæ 
+3280, 	Aposto, 	apostus, 	NOMpro, 	Case=Abl|Numb=Sing, 	( qualis ab Aposto lis præscripta est 
+3292, 	addanit, 	addaneo, 	VER, 	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3, 	adiungant  et addanit  vt non 
+3318, 	Atr, 	at?, 	NOMcom, 	Case=Nom|Numb=Sing, 	integras retineant . Atr tendendum est enim 
+3338, 	sus, 	sus, 	NOMcom, 	Case=Nom|Numb=Sing, 	claudicat tandem prorsus sus abducatur à via 
+3366, 	discipli, 	disciplus, 	NOMcom, 	Case=Gen|Numb=Sing|Deg=Pos, 	Quia verò hæc discipli na maximè hac 
+3428, 	Eccsesiasticę, 	eccesiasticus, 	ADJqua, 	Numb=Sing|Deg=Pos, 	hoe de disciplinę Ecclesiasticę ar gumento maximè 
+3429, 	ar, 	ar, 	NOMcom, 	Case=Acc|Numb=Sing, 	de disciplinę Ecclesiasticę ar argumento maximè ostentare 
+3441, 	gnos, 	gnos, 	NOMcom, 	Case=Acc|Numb=Plur, 	enim præter ma gnos in ipsum Pauli 
+3550, 	rore, 	ros, 	NOMcom, 	Case=Abl|Numb=Sing, 	digressionibus et errore rore ad ipsum Paulũ 
