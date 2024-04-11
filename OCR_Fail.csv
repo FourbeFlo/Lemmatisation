@@ -42,3 +42,5 @@ Id,Form,Lemma,POS,Morph,Context
 2888, 	disci, 	disco, 	NOMcom, 	Numb=Sing, 	præscriptam verbo Dei disci plinæ Ecclesiasticæ οὐσίαν 
 2895, ciuerunt, 	ciuesco, 	VER, 	Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3, et san ciuerunt : quanquam se 
 2999, 	sæpeinobis, 	saepeino, 	VER, 	Numb=Sing, 	et quæ tamen sæpeinobis obiicitur ingenuè 
+3052 	Ec 	ec 	CONcoo 	MORPH=empty 	veras esse Dei Ec clesias . Vnica 
+3093 	mneģ 	nneg 	PROpos 	Numb=Sing 	Christi , Oues mneģ vocẽ meã audiunt 
