@@ -59,3 +59,7 @@ Id,Form,Lemma,POS,Morph,Context
 3429, 	ar, 	ar, 	NOMcom, 	Case=Acc|Numb=Sing, 	de disciplinę Ecclesiasticę ar argumento maximè ostentare 
 3441, 	gnos, 	gnos, 	NOMcom, 	Case=Acc|Numb=Plur, 	enim præter ma gnos in ipsum Pauli 
 3550, 	rore, 	ros, 	NOMcom, 	Case=Abl|Numb=Sing, 	digressionibus et errore rore ad ipsum Paulũ 
+3656 	locatæ 	loco 	VER 	Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass 	meę rectè collocatæ locatæ fructum hunc maximum 
+3734 	retinend 	retineo 	VER 	Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass 	quę erũt cõstitutæ retinend as hac disputatione 
+3989 	Ecclesi 	Ecclesis 	NOMpro 	Case=Dat|Numb=Plur 	armis et prudentia Ecclesi æ Callicanæ ab 
+3990 	Callicanæ 	Callicanus 	ADJqua 	Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos 	et prudentia Ecclesiæ Callicanæ ab aduersariorum atrocissimis 

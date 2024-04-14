@@ -18,3 +18,11 @@ qui entraine une fausse identification du lemme
 -29.03.2024
 les mots billingue?
 in quibus commoditas incommoditâsque praxeωs, vsus, et executionis disciplinæ 
+14.04.24
+
+Abréviation : quoi faire? 
+3856 	Ph 	Ph 	NOMpro 	Case=Acc|Numb=Sing 	que illius viri Ph . Marnixij Domini 
+
+les erreurs d'impressions
+caneset pour canescet (futur 3 prers)
+3975 	caneset 	canesco 	VER 	Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3 	felix memoria nunquam caneset , ac ne 
