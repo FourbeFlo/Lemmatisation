@@ -122,15 +122,15 @@ INDEX PRIMOS LOCORVM COMMVNIVM QVI IN his commentarijs varijs in locis tractantu
 DE  Abstinentia ciborum cap.5.
 V.23. pag.371. de Auaritia cap. 6.
 V.9. et 1o. pag 445. de Censura Ecclesiastica vt duplex, et cur fiat cap.
-SV.2o.pag. 319. de Censura Ecclesiastica morum, ad quos pertineat cap.5.
+5. V.2o.pag. 319. de Censura Ecclesiastica morum, ad quos pertineat cap.5.
 V.
 I. pag.240. de Ciborum prohibitione cap.4.
-V.2.et3.pag.188. de Deo cap. 6.
+V.2.et.3.pag.188. de Deo cap. 6.
 V. 16. de Diaconis quales esse debeant cap.3.
 V.8. de Diaconis vtrum presbyteris præferendi. cap.3.v.8. pag.157. de Diaconorum officio cap.3.
 V.9.pag. 161. de Electione siue vocatione legitima et ordinaria cap.5.
 V.22. pag.341. de Episcoporũ aut promouendorum ad munus Ecclesiasticum vitiis. cap.3.
-V3.pag.131. de Episcoporum coniugio vel celibatu. cap.3.
+V.3.pag.131. de Episcoporum coniugio vel celibatu. cap.3.
 V.2 pag. 107. de Episcoporum dotibus. cap. 3.
 V.2. pag. 101. de Episcoporum vocabulo cap. 3.
 V.
@@ -142,7 +142,7 @@ V. 22. pag. 359. de Monachis cap. 4.
 V.8. pag. 212. de Monialibussiue Nonnis cap.5.
 V. 13. pag.288 de Presbyteris censura notandis cap. 5.
 V. 18. pag.313. cap. 5.
-V. i3. pag.3os. de Presbyteris honorandis cap.3V.
+V. 13. pag.305. de Presbyteris honorandis cap.3.V.
 I. pag.93 de Presbyterorum vocabulo cap.2.
 V.12. pag. 84. de Regno muliebri de Scholastica cap. 6.
 V.4. pag.426. de Secularium rerum cognitione, vtrum episcopo necessaria cap.3.
@@ -154,6 +154,7 @@ I6 pag. 3o2. de Diaconissis cap.5.
 V.9. pag.271. de Vino cap.5.
 V.23.
 Pag. 376.
+################# 2012913.png ######16.04.24#################
 IN D.
 PAVLI APOSTOLI priorem ad Timotheum E pistolam.
 L.

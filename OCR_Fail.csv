@@ -59,9 +59,13 @@ Id,Form,Lemma,POS,Morph,Context
 3429, 	ar, 	ar, 	NOMcom, 	Case=Acc|Numb=Sing, 	de disciplinę Ecclesiasticę ar argumento maximè ostentare 
 3441, 	gnos, 	gnos, 	NOMcom, 	Case=Acc|Numb=Plur, 	enim præter ma gnos in ipsum Pauli 
 3550, 	rore, 	ros, 	NOMcom, 	Case=Abl|Numb=Sing, 	digressionibus et errore rore ad ipsum Paulũ 
-3656 	locatæ 	loco 	VER 	Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass 	meę rectè collocatæ locatæ fructum hunc maximum 
-3734 	retinend 	retineo 	VER 	Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass 	quę erũt cõstitutæ retinend as hac disputatione 
-3989 	Ecclesi 	Ecclesis 	NOMpro 	Case=Dat|Numb=Plur 	armis et prudentia Ecclesi æ Callicanæ ab 
-3990 	Callicanæ 	Callicanus 	ADJqua 	Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos 	et prudentia Ecclesiæ Callicanæ ab aduersariorum atrocissimis 
-4111 	quidemi 	quidemi 	PROind 	Case=Nom|Deg=Pos 	celebraris , adeò quidem , vt qui 
-4189 icationis 	praedicatio 	NOMcom 	Case=Gen|Numb=Sing 	tuarum laudum præd prædicationis conatum et symbolum 	1
+3656, 	locatæ, 	loco, 	VER, 	Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass, 	meę rectè collocatæ locatæ fructum hunc maximum 
+3734, 	retinend, 	retineo, 	VER, 	Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass, 	quę erũt cõstitutæ retinend as hac disputatione 
+3989, 	Ecclesi, 	Ecclesis, 	NOMpro, 	Case=Dat|Numb=Plur, 	armis et prudentia Ecclesi æ Callicanæ ab 
+3990, 	Callicanæ, 	Callicanus, 	ADJqua, 	Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos, 	et prudentia Ecclesiæ Callicanæ ab aduersariorum atrocissimis 
+4111, 	quidemi, 	quidemi, 	PROind, 	Case=Nom|Deg=Pos, 	celebraris adeò quidem vt qui 
+4189, icationis, 	praedicatio, 	NOMcom, 	Case=Gen|Numb=Sing, 	tuarum laudum præd prædicationis conatum et symbolum 	1
+4272, 	E, 	ex, 	PRE, 	MORPH=empty, 	locis tractantur . E Abstinentia ciborum cap 
+4314, 	SV, 	su, 	PRE, 	Case=Nom|Numb=Sing|Person=1 	fiat cap . SV . 2o . 
+4624, 	i3, 	it, 	NOMcom, 	Numb=Sing,  	. V . i3 . pag . 
+4628, 	3os, 	eo?, 	PROper, 	Case=Nom|Numb=Plur, 	. pag . 3os . de Presbyteris 
