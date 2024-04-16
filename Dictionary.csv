@@ -1,49 +1,50 @@
 # custom dictionary
-token,	lemma,	pos, varia,		
-Auracio,Auracium, NOMpro, Auray localisation,
-Guliemo, Gulielmus, NOMpro,,
-Nassauo, Nassauaus, ADJqua, Nassau (Comté),
-Hollandia, Hollandia, NOMpro,,
-Zelandia, Zelandia, NOMpro, Seeland,
-animisensus, animi sensus,Nomcom, les sens de l'âme? sens internes
-consarcinat, consarcino, VER, pas dans le dictionnaire
-politia, politia, NOMcom, res publica
-Bertramus, Bertramus, NOMpro, 
-Leuitica, leuiticus,ADJqua, vocabulaire lat. chr.
-Leuitarũ, leuitaris,ADJqua, vocabulaire lat. chr.
-ceremonialis, caerimonialis, ADJqua, vocabulaire lat. chr.
-delineatio, delineatio, NOMcom, vocabulaire lat. chr.
-synodorum, synodus, NOMcom, vocabulaire lat. chr.
-1,1, ADJcar, chiffre arabe
-2,2, ADJcar, chiffre arabe
-3,3, ADJcar, chiffre arabe
-4,4, ADJcar, chiffre arabe
-consistorium,consistorium,NOMcom, vocabulaire lat. chr. 
-abstenti, abstentus, VER, vocabulaire lat. chr. 
-excommunicati, excommunico, VER, vocabulaire lat. chr.  
-essentialia, essentialis, ADJqua, vocabulaire lat. chr.  
-metropolitana, metropolitanus, ADJqua, vocabulaire lat. chr.
-eleuatione, 	eleuatio, NOMcom, vocabulaire lat. chr.
-accidentaria, accidentarius, ADJqua, vocabulaire lat. scol (opposition à essentialia)
-Monarchicum, monarchicus, ADJqua, neolatin
-Aristocraticũ, aristocraticus, ADJqua, neolatin
-excommunicatio,excommunicatio,NOMcom, vocabulaire lat. chr.
-accidentalibus, accidentalis, ADJqua, vocabulaire lat. chr.
-quadrimestria, quadrimestris,ADJqua, vocabulaire technique
-idololatra, idololatra, NOMcom, vocabulaire lat. chr. 
-politicis, politicus, ADJqua, vocabulaire technique
-scopus, scopus, NOMcom, vocabulaire latin médival (objectif but),  
-legislator,legislator, NOMcom, vocabulaire lat. chr.
-scrutator, scrutator, NOMcom, vocabulaire p.c.
-hallucinari, alucinor,VER, vocabulaire technique
-Oecumeniis, Oecumenius, NOMpro, neolatin (nom des commentaires grecs du noveau testament)
-Oecumenicæ, oecumenicus, ADJqua, vocabulaire lat. chr. 
-Spensæus, Spensaeus,NOMpro, Claude d'Espence
-Digressionum, digressio, NOMcom, vocabulaire technique
-tenebriones, tenebrio, NOMcom, latin technique 
-matȩologia, mataeologia, NOMcom, neolatin calque grec : ματαιολογία  
-cæteroquin, ceteroquin, AVD, latin technique
-demisissimo, demisissimus, ADJqua, latin moderne
-Marnixij, Marnixius, NOMpro, Marnixius
-Aldegõdij, Aldegondius, NOMpro, 
-Taffinus, Taffinus, NOMpro,
+id, token,	lemma,	pos, varia,		
+135,Auracio,Auracium, NOMpro, Auray localisation,
+133,Guliemo, Gulielmus, NOMpro,,
+137,Nassauao, Nassauaus, ADJqua, Nassau (Comté),
+144,Hollandia, Hollandia, NOMpro,,
+146,Zelandia, Zelandia, NOMpro, Seeland,
+213,animisensus, animi sensus,Nomcom, les sens de l'âme? sens internes
+711,consarcinat, consarcino, VER, pas dans le dictionnaire
+921,politia, politia, NOMcom, res publica
+928,Bertramus, Bertramus, NOMpro, 
+948,Leuitica, leuiticus,ADJqua, vocabulaire lat. chr.
+968,Leuitarũ, leuitaris,ADJqua, vocabulaire lat. chr.
+1003,ceremonialis, caeremonialis, ADJqua, vocabulaire lat. chr.
+1030,delineatio, delineatio, NOMcom, vocabulaire lat. chr.
+1158,synodorum, synodus, NOMcom, vocabulaire lat. chr.
+1388,1,1, ADJcar, chiffre arabe
+1403,2,2, ADJcar, chiffre arabe
+1413,3,3, ADJcar, chiffre arabe
+1380,4,4, ADJcar, chiffre arabe
+1426,consistorium,consistorium,NOMcom, vocabulaire lat. chr. 
+1450,abstenti, abstentus, VER, vocabulaire lat. chr. 
+1453,excommunicati, excommunico, VER, vocabulaire lat. chr.  
+1647,metropolitana, metropolitanus, ADJqua, vocabulaire lat. chr.
+1662,eleuatione, 	eleuatio, NOMcom, vocabulaire lat. chr.
+1682,accidentaria, accidentarius, ADJqua, vocabulaire lat. scol (opposition à essentialia)
+1931,Monarchicum, monarchicus, ADJqua, neolatin
+1934,Aristocraticũ, aristocraticus, ADJqua, neolatin
+1996,excommunicatio,excommunicatio,NOMcom, vocabulaire lat. chr.
+2049,accidentalibus, accidentalis, ADJqua, vocabulaire lat. chr.
+2126,quadrimestria, quadrimestris,ADJqua, vocabulaire technique
+2169,idololatra, idololatra, NOMcom, vocabulaire lat. chr. 
+2314,politicis, politicus, ADJqua, vocabulaire technique
+2375,scopus, scopus, NOMcom, vocabulaire latin médival (objectif but),  
+2440,legislator,legislator, NOMcom, vocabulaire lat. chr.
+2616,scrutator, scrutator, NOMcom, vocabulaire p.c.
+2731,hallucinari, alucinor,VER, vocabulaire technique
+2857,Oecumeniis, Oecumenius, NOMpro, neolatin (nom des commentaires grecs du noveau testament)
+2883,Oecumenicæ, oecumenicus, ADJqua, vocabulaire lat. chr. 
+3435,Spensæus, Spensaeus,NOMpro, Claude d'Espence
+3449,Digressionum, digressio, NOMcom, vocabulaire technique
+3513,tenebriones, tenebrio, NOMcom, latin technique 
+3529,matȩologia, mataeologia, NOMcom, neolatin calque grec : ματαιολογία  
+3581,cæteroquin, ceteroquin, AVD, latin technique
+3640,demisissimo, demisissimus, ADJqua, latin moderne
+3858,Marnixij, Marnixius, NOMpro, Marnixius
+3862,Aldegõdij, Aldegondius, NOMpro, 
+3869,Taffinus, Taffinus, NOMpro,
+3969,Ludouico, Ludouicus, NOMpro, 
+4087,triumphator, triumphator, NOMcom, latin p.c. 
