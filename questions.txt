@@ -22,7 +22,22 @@ in quibus commoditas incommoditâsque praxeωs, vsus, et executionis disciplin�
 
 Abréviation : quoi faire? 
 3856 	Ph 	Ph 	NOMpro 	Case=Acc|Numb=Sing 	que illius viri Ph . Marnixij Domini 
+4149 	Eurip pour Euripidus
+
+=> garder quand elle est courte ex E. = E 
+ou Ph = Ph
+développer quand elle est longue = + de 3 lettre
+Eurip = Euripides
 
 les erreurs d'impressions
 caneset pour canescet (futur 3 prers)
 3975 	caneset 	canesco 	VER 	Numb=Sing|Mood=Ind|Tense=Fut|Voice=Act|Person=3 	felix memoria nunquam caneset , ac ne 
+
+le 16.04.14
+
+les dates en chiffre romain ?
+Consever les chiffres ? 
+4258 	LXXVII. 	
+	NOMpro 	Case=Acc|Numb=Sing 	. CꟾↃ Iↄ LXXVII. INDEX PRIMOS LOCORVM 
+les dates moments de l'année
+4249 	Cal 	kalendae 	NOMcom 	Case=Nom|Numb=Plur 	. Geneuę {Geneuę} Cal . Augusti Anno 

@@ -43,8 +43,22 @@ id, token,	lemma,	pos, varia,
 3529,matȩologia, mataeologia, NOMcom, neolatin calque grec : ματαιολογία  
 3581,cæteroquin, ceteroquin, AVD, latin technique
 3640,demisissimo, demisissimus, ADJqua, latin moderne
+3856, 	Ph, Ph, NOMpro, nom abregé
 3858,Marnixij, Marnixius, NOMpro, Marnixius
 3862,Aldegõdij, Aldegondius, NOMpro, 
 3869,Taffinus, Taffinus, NOMpro,
 3969,Ludouico, Ludouicus, NOMpro, 
 4087,triumphator, triumphator, NOMcom, latin p.c. 
+4157,᾽,᾽,PUNC, ponctuation grec ancien
+4201, E,E, NOMpro, nom abrégé
+4247, Geneuę, 	Geneua, 	NOMpro, Genève 
+4256,CꟾↃ,1000, ADJcar, 1000
+4257,ꟾↃ,500, ADJcar, 500
+4258,LXXVII, 77, ADJcar, 77
+4281, 	23, 	23, ADJcar, 23
+4285, 	371, 	371, ADJcar
+4291, 	6, 	3, 	ADJcar,
+4293,V,5,ADJcar,5
+4295, 	9, 	9, 	ADJcar,
+4298, 	1o, 10, ADJcar,
+4318, 	2o, 20, ADJcar,

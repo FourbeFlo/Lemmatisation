@@ -63,3 +63,5 @@ Id,Form,Lemma,POS,Morph,Context
 3734 	retinend 	retineo 	VER 	Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass 	quę erũt cõstitutæ retinend as hac disputatione 
 3989 	Ecclesi 	Ecclesis 	NOMpro 	Case=Dat|Numb=Plur 	armis et prudentia Ecclesi æ Callicanæ ab 
 3990 	Callicanæ 	Callicanus 	ADJqua 	Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos 	et prudentia Ecclesiæ Callicanæ ab aduersariorum atrocissimis 
+4111 	quidemi 	quidemi 	PROind 	Case=Nom|Deg=Pos 	celebraris , adeò quidem , vt qui 
+4189 icationis 	praedicatio 	NOMcom 	Case=Gen|Numb=Sing 	tuarum laudum præd prædicationis conatum et symbolum 	1
