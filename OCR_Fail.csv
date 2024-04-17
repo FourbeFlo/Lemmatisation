@@ -69,3 +69,11 @@ Id,Form,Lemma,POS,Morph,Context
 4314, 	SV, 	su, 	PRE, 	Case=Nom|Numb=Sing|Person=1 	fiat cap . SV . 2o . 
 4624, 	i3, 	it, 	NOMcom, 	Numb=Sing,  	. V . i3 . pag . 
 4628, 	3os, 	eo?, 	PROper, 	Case=Nom|Numb=Plur, 	. pag . 3os . de Presbyteris 
+4959 	rinam 	rina 	NOMcom 	Case=Acc|Numb=Sing 	sanam Euangelij doct rinam , ab ipso 
+5062 	SaIutationem 	saiutatio 	NOMcom 	Case=Acc|Numb=Sing 	, nempe , SaIutationem , et argumenti 
+Saved	
+5401 	Deusnos 	deusni 	NOMpro 	Case=Acc|Numb=Plur 	. Quia enim Deusnos seruare vult ,
+5699 	nostiæ 	nostia 	NOMcom 	Case=Gen|Numb=Sing|Gend=Fem
+5705 	generarionis 	generatio 	NOMcom 	Case=Gen|Numb=Sing
+5978 	iuè 	iuis 	NOMcom 	Case=Nom|Numb=Sing 	non autem act iuè in Deo accipimus 
+6024 	acedoniam 	acedonia 	NOMcom 	Case=Acc|Numb=Sing 	proficiscerer in M acedoniam , permaneto , 

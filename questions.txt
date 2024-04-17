@@ -55,3 +55,23 @@ question des majuscule
 LES ABREVIATIONS de nom propre : 
 Crysosto. = Crysostomus ? 
 5151 	Chrysosto 	Chrysostomus 	NOMpro 	Case=Nom|Numb=Sing
+
+=> pour l'instant j'ai mis les noms propres abrégé au nominatif, même si c'est pas toujour leur fonction dans la phrase...
+=> il faudrait mieux choisir l'ablatif pour les citations, ça correspond mieux en terme de fonction grammaticale
+
+Listes des nom 
+
+Luc. Lucas
+Crysosto. Crysostomus
+Ioan. Ioannes
+Tessal Thessalonicenses
+D. T. Beza ?? Doctor Theodorus Beza
+
+Attention à revoir les noms propres à cause de l'habitude de mettre des majuscules aux mots importants le lemmatiseur 
+
+Peut-être mettre faire une liste de mot concepte à passer en minuscule dans une étape de "normalisation" pré-lemmatisation
+ex : Ecclesia = ecclesia
+Episcopus =episcopus
+Author
+Maximus = maximus (adjectif laudatif)
+2012919.png : je rentre le vocabulaire mais enlever la page pour le topic modeling
