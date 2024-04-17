@@ -41,3 +41,17 @@ Consever les chiffres ?
 	NOMpro 	Case=Acc|Numb=Sing 	. CꟾↃ Iↄ LXXVII. INDEX PRIMOS LOCORVM 
 les dates moments de l'année
 4249 	Cal 	kalendae 	NOMcom 	Case=Nom|Numb=Plur 	. Geneuę {Geneuę} Cal . Augusti Anno 
+Abréviation encore 
+même chose pour pag =pagina
+vers = versus : la morphologie ? Acc/Nom?
+
+5030 	vers 	uersus1 	NOMcom 	Case=Nom|Numb=Sing 	. hoc ipso vers . 3 . 
+
+
+4283 	pag 	pagina 	NOMcom 	Case=Nom|Numb=Sing
+question des majuscule
+à Epistola ou Ecclesia, Euangelij
+
+LES ABREVIATIONS de nom propre : 
+Crysosto. = Crysostomus ? 
+5151 	Chrysosto 	Chrysostomus 	NOMpro 	Case=Nom|Numb=Sing
