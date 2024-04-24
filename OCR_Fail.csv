@@ -45,6 +45,7 @@ Id,Form,Lemma,POS,Morph,Context
 3052, 	Ec, 	ec, 	CONcoo, 	MORPH=empty, 	veras esse Dei Ec clesias . Vnica 
 3093, 	mneģ, 	nneg, 	PROpos, 	Numb=Sing 	Christi , Oues mneģ vocẽ meã audiunt 
 3135, 	Ecclesię, 	ec, 	CONcoo, 	MORPH=empty, ad veræ Ecclesię clesię designationẽ à 
+6511 	annoà 	annoa 	NOMcom 	Case=Nom|Numb=Sing|Deg=Pos 	quæ contigisse videtur annoà Pauli cõuersione 28 
 3139, 	pronuntiã, 	pronuntio, 	VER, 	Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2 	designationẽ à nõnullis pronuntiã tur , ostendũt 
 3191, 	igittir, 	igittir, 	CONcoo, 	MORPH=empty, 	praxis . Sũt igittir huiusmodi Ecclesię quidem 
 3211, 	le, 	lego?, 	NOMcom, 	Case=Nom|Numb=Sing, Sic il le à nobis dicitur 
