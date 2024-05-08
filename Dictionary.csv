@@ -78,7 +78,7 @@ id, token,	lemma,	pos, varia,
 4538, Exomologesi, 	exomologesis, 	NOMcom, lat. chr. 
 4588, 	Monialibussiue, 	monialis, 	NOMcom,lat. chr. 
 4590, 	Nonnis, 	nonna, 	NOMcom, lat. chr.
-4624, 	13, 	13, 	NOMcom 	
+4624, 	13, 	13, 	ADJcar, 	
 4628, 	3o5,    305, ADJcar,
 4708, 	7o, 	70, 	ADJcar, 
 4723, 	78, 	78, 	ADJcar	
@@ -98,7 +98,20 @@ id, token,	lemma,	pos, varia,
 6503, T, @abr.pN, NOMpro, abréviation de nom de personne
 6548, Colossenses, Colossenses, NOMpro, latin chré., les Colossiens
 6603, Apocalyp, Apocalypsis, NoOMpro, abréviation de livre biblique ,livre biblique
-6626, 	puritate, 	puritas, 	NOMcom, latin chré,
+6626, 	puritate, 	puritas, 	NOMcom, latin chr.,
 6631, 	pseudofratres, 	pseudofater,  NOMcom, lat. chr.
 6710, 	Malach, 	Malachias, 	NOMpro,  abréviation de livre biblique ,livre biblique
 6844, 	percensio, 	percensio, 	NOMcom, latin tard, rescension 
+6859, 	hypothesi, 	hypothesis, 	NOMcom, lat. chr.
+6865, 	thesin, 	thesis, 	NOMcom, lat. chr.
+6899, 	Æonibus, 	aeon, 	NOMcom, lat. chr.,éon (αἰών)
+7011, 	14, 	14, ADJcar,
+7252, 	Faustum, 	Faustus, 	NOMpro,
+7292, 	archiuis, 	archiuum, 	NOMcom,
+7318, 	Num, Numeri, NOMpro, abr. livres bibliques
+7327, 	Nehem, 	Nehemias, 	NOMpro, abr. livres bibliques
+7368, 	Chron, 	Chronicon, 	NOMpro,abr. livres bibliques
+7623, 	Theologiæ, 	theologia, NOMcom, lat. chr. 
+7762, 	curiositati, 	curiositas, 	NOMcom, lat. clas.?
+7861, 	theoriticus, 	theoreticus, 	ADJqua, lat. chr. , spéculatif
+7863, 	practicus, 	practicus, 	ADJqua, lat. chr.

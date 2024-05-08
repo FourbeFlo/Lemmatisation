@@ -1,4 +1,4 @@
-Abrévation Lambert (token),lemme,Latin Weber,Livre biblique
+Abrévation Lambert (token),lemme,Latin Weber,Livre biblique, 
 ,,Abd,Abdias
 ,,Act,Actes des apôtres
 ,,Agg,Aggée
@@ -7,7 +7,7 @@ Apocalyp,Apocalypsis,Apc,Apocalypse
 ,,Bar,Baruch
 ,,Ct,Cantique des cantiques
 ,,I Par,Chroniques 1er livre
-,,II Par,Chroniques 2e livre
+Chron,Chronicon,II Par,Chroniques 2e livre
 ,,Dn,Daniel
 ,,Dt,Deutéronome
 ,,Ecl,Ecclésiaste (ou Qohelet)
@@ -23,7 +23,7 @@ Tit,Titus,Tit,Épître à Tite
 ,,Gal,Épître aux Galates
 ,,Hbr,Épître aux Hébreux
 ,,Phil,Épître aux Philippiens
-,,Rm,Épître aux Romains
+Romanor,Romanus,Rm,Épître aux Romains
 ,,I Th,"Épître aux Thessaloniciens, 1re"
 ,,II Th,"Épître aux Thessaloniciens, 2e"
 ,,Iac,Épître de Jacques
@@ -59,8 +59,9 @@ Tit,Titus,Tit,Épître à Tite
 Malach,Malachias,Mal,Malachie
 ,,Mi,Michée
 ,,Na,Nahum
-,,II Esr,Néhémie
-,,Nm,Nombres
+Nehem,Nehemias,II Esr,Néhémie
+Num,Numeri,Nm,Nombres
+Numer,Numeri,Nm,Nombres
 ,,Os,Osée
 ,,Prv,Proverbes
 ,,Ps,Psaumes
