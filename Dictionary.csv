@@ -95,3 +95,8 @@ id, token,	lemma,	pos, varia,
 5943, 	acceptatio, 	acceptatio, 	NOMcom, lat. chr.
 6415, 	Papali, papalis, ADJqua, lat. med.
 6504, 	Beza, 	Beza, 	NOMpro, Bèze 
+6503, T, @abr.pN, NOMpro, abréviation de nom de personne
+6548, Colossenses, Colossenses, NOMpro, latin chré., les Colossiens
+6603, Apocalyp, Apocalypsis, Nompro, abréviation de livre biblique ,livre biblique
+6626, 	puritate, 	puritas, 	NOMcom, latin chré,
+6631, 	pseudofratres, 	pseudofater,  NOMcom, lat. chr.

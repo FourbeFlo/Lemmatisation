@@ -78,11 +78,23 @@ Author
 Maximus = maximus (adjectif laudatif)
 2012919.png : je rentre le vocabulaire mais enlever la page pour le topic modeling
 
-LEs nom propres : 
-exemple les livres de la bible ? 
-si on les considère comme des noms propres, c'est un moyen de les retrouver rapidement? 
 
-=> idealement faire un tableau des ref biblique en csv pour automatiser le nommage des noms propres associés. 
+Decisions : 
+les abréviations
+* Les Noms propres:
+Quand il est réduit à une lettre
+=> lemma : @abr.ps [abreviation persName], POS NOMpro Morph Empty 
+Quand il est davantage identifiable alors on peut desambiguiser et ajouter le mot au dictionnaire
+Luc. Lucas
+Crysosto. Crysostomus
+Attention à différencier un luc personnage d'un Luc livre biblique dans le cas du livre biblique on garde l'abréviation. 
 
-Gen gen 
-abr. @abr.ps.
+* Les livre bibliques : 
+=> idealement faire un tableau des ref biblique en csv pour automatiser le nommage des noms propres associés si les abréviations sont régulières... 
+ex
+Gen  lemma, gen, POS NOMpro, Morph empty 
+
+****************
+deploiement en txt.
+1. script de normalisation python
+2. conserver les identifiants d'image pour faciliter la correction de l'OCR
