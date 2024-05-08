@@ -94,7 +94,15 @@ Attention à différencier un luc personnage d'un Luc livre biblique dans le cas
 ex
 Gen  lemma, gen, POS NOMpro, Morph empty 
 
+=> à la fin faire une recherche des lemm de nom biblique dans le lemmatisateur pour normaliser le tout. 
+
+Abréviation récurente 
+versic = uersiculus //verset
+
 ****************
 deploiement en txt.
 1. script de normalisation python
 2. conserver les identifiants d'image pour faciliter la correction de l'OCR
+
+correction de l'ocr
+pour rendre les mots corriger visible en txt : *mot* on peut les retrouver facilement

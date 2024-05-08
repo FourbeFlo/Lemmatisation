@@ -97,6 +97,8 @@ id, token,	lemma,	pos, varia,
 6504, 	Beza, 	Beza, 	NOMpro, Bèze 
 6503, T, @abr.pN, NOMpro, abréviation de nom de personne
 6548, Colossenses, Colossenses, NOMpro, latin chré., les Colossiens
-6603, Apocalyp, Apocalypsis, Nompro, abréviation de livre biblique ,livre biblique
+6603, Apocalyp, Apocalypsis, NoOMpro, abréviation de livre biblique ,livre biblique
 6626, 	puritate, 	puritas, 	NOMcom, latin chré,
 6631, 	pseudofratres, 	pseudofater,  NOMcom, lat. chr.
+6710, 	Malach, 	Malachias, 	NOMpro,  abréviation de livre biblique ,livre biblique
+6844, 	percensio, 	percensio, 	NOMcom, latin tard, rescension 

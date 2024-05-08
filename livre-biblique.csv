@@ -3,7 +3,7 @@ Abrévation Lambert (token),lemme,Latin Weber,Livre biblique
 ,,Act,Actes des apôtres
 ,,Agg,Aggée
 ,,Am,Amos
-,,Apc,Apocalypse
+Apocalyp,Apocalypsis,Apc,Apocalypse
 ,,Bar,Baruch
 ,,Ct,Cantique des cantiques
 ,,I Par,Chroniques 1er livre
@@ -13,9 +13,9 @@ Abrévation Lambert (token),lemme,Latin Weber,Livre biblique
 ,,Ecl,Ecclésiaste (ou Qohelet)
 ,,Sir,Ecclésiastique (ou Sirac)
 ,,Phlm,Épître à Philémon
-,,I Tim,"Épître à Timothée, 1re"
-,,II Tim,"Épître à Timothée, 2e"
-,,Tit,Épître à Tite
+Timot,Timotheus,I Tim,"Épître à Timothée, 1re"
+Timot,Timotheus,II Tim,"Épître à Timothée, 2e"
+Tit,Titus,Tit,Épître à Tite
 ,,Col,Épître aux Colossiens
 ,,I Cor,"Épître aux Corinthiens, 1re"
 ,,II Cor,"Épître aux Corinthiens, 2e"
