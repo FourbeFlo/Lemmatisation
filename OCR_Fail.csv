@@ -7,49 +7,51 @@ Id,Form,Lemma,POS,Morph,Context
 155,Etus,uetus,ADJqua,Case=Nom|Numb=Sing,pacem à Domino . (V)Etus est illud  Princeps
 201,feparatione,separatio,NOMcom,Case=Abl|Numb=Sing,et nulla partium apta feparatione distinctum ? Certè quocunque
 208,ocuIos,oculus,NOMcom,Case=Acc|Numb=Plur,Certè quocunque nõ tantum oculos  sed omnes animisensus
+-
 245,vrilitatem,utilitas,NOMcom,Case=Acc|Numb=Sing,apparebũt : ea neque vrilitatem neque venustatem aliquam
 257,ilIis,ille,PROdem,Case=Abl|Numb=Plur|Gend=Com,tantûmque {tantûmque} ab ilIis oculorum animique {animique},
-333,verũesse,uerum esse,VER,MORPH=empty,hominũ industria efficiũtur  verũesse ipsa rerum ex perientia
+-
 338,perientia,experientia,NOMcom,Case=Abl|Numb=Sing,esse ipsa rerum ex perientia  et publica mortalium
-541,siæ,sius,PROpos.ref,Case=Gen|Numb=Sing|Gend=Fem,ipsiúsque {ipsiúsque} Eccle siæ suæ fundamentũ necessaria
-569,Ecclesiæ,ecclesia,ADJqua,Case=Gen|Numb=Sing|Gend=Fem,pars ad veræ Ec clesiæ constitutionem necessaria
+-
 687,Ecclesiastic,Ecclesiasticus,ADV,Case=Gen|Numb=Sing|Deg=Pos,quę disciplinæ Ecclesiastic æ præcepta tradit
 741,polsit,possum1,VER,Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3,satis iã intelligi possit . Erit enim
-887,negligẽdámue,negligedo,ADJqua,Case=Acc|Numb=Sing|Gend=Fem,quis eam spernendam negligẽdámue {negligẽdámue} vnquã existimauerit
-887,negligẽdámue,negligo,VER,Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass,quis eam spernendam negligẽdámue {negligẽdámue} vnquã existimauerit
-956,ministritẽpli,ministritaplum,NOMcom,Case=Abl|Numb=Sing|Deg=Pos,ex ea sola ministritẽpli tẽpli eligantur :
-1058,ctè,cres,ADV,Numb=Sing,omnino ad re ctè constituendam regendámque {regendámque}
-1090,episto,epistola,NOMcom,Case=Abl|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act,ex prima Pauli episto la ad Corint
+-
+-
 1093,hios,hic1,PROdem,Case=Acc|Numb=Plur|Gend=Masc,epistola ad Corinthios hios ex hac
 1097,Timot,Timot,NOMcom,Case=Acc|Numb=Sing,ex hac ad Timot heum et
-1120,clesiasticam,clesiasticus,ADJqua,Case=Acc|Numb=Sing|Deg=Pos,et disciplinam clesiasticam maximè pertinet,
-1189,pre,pres,NOMcom, 	MORPH=empty,et ignorantia eorum pre ceptorumquæ
 1214, 	sper, 	sper, 	PRE, 	Case=Nom, 	hæc diuina præcepta sper nerẽt homines , 
 1254, 	uo, 	uos, 	NOMcom, 	Case=Abl|Numb=Sing|Gend=MascNeut, 	et in nouo uo Testamento disciplina hæc 
+-
 1259, 	ca, 	cabo, 	CONsub, 	Numb=Sing, 	disciplina hæc Ecclesiastica ca tam accuratè tradita 
 1302, 	gene, 	gene, 	NOMcom, 	Case=Abl|Numb=Sing, quarũ alia gene ralẽ tantũ Ecclesiæ 
 1384, 	cõ, 	con, 	ADVrel, 	Numb=Sing, 	4 . capita cõ plecti videtur : 
+-
 1652, 	tẽ, 	tu, 	PROper, 	Case=Acc|Numb=Sing 	vrbe , certo tẽ tẽpore  nẽpe 
+-
 1962, 	siæ, 	siue2, 	CONsub, 	Case=Gen|Numb=Sing|Gend=Fem, 	quisquam negotia Ecclesiæ siæ gerat : sit 
 2072, 	va, 	ualeo, 	NOMcom, 	Numb=Plur 	, dicimus illas va variari posse
+-
 2233, 	Ecclesi, 	Ecclesis, 	NOMpro, 	Case=Dat|Numb=Sing, 	Denique modo sit Ecclesi aet Dei domus   
 2254,Eoclesijs, 	ecclesia, 	NOMcom, 	Case=Abl|Numb=Plur,  	disciplinæ vbique in Eoclesijs Dei eadem esse 
-2393, 	vocationem, 	uocatio, 	NOMcom, 	Case=Acc|Numb=Sing, 	esse debent legitimam vocat  ionem habeant . Postea 
+2393, 	vocationem, 	uocatio, 	NOMcom, 	Case=Acc|Numb=Sing, esse debent legitimam vocat  ionem habeant . Postea 
 2405, 	conuer, 	conuero, 	VER, 	Numb=Sing|Person=1, 	et ad pœnitentiam conuer sionémque {sionémque} ad 
-2447, 	rũ, 	rus, 	NOMcom, 	Case=Abl|Numb=Sing, 	solus conscientiarũ nostra rũ legitimus gubernator , 
+-
+2447, 	rũ, 	rus, 	NOMcom, 	Case=Abl|Numb=Sing, 	solus conscientiarũ nostrarũ legitimus gubernator , 
+-
 2862, 	cõciIiis, 	concilium, 	NOMcom, 	Case=Abl|Numb=Plur, 	quæ vocãt  cõciIiis hoc quoque potest 
 2884, 	nicæ, 	nicae, 	NOMcom, 	Case=Dat|Numb=Sing, 	Synodi illæ Oecume nicæ contra præscriptam verbo 
 2888, 	disci, 	disco, 	NOMcom, 	Numb=Sing, 	præscriptam verbo Dei disci plinæ Ecclesiasticæ οὐσίαν 
 2895, ciuerunt, 	ciuesco, 	VER, 	Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=3, et san ciuerunt : quanquam se 
 2999, 	sæpeinobis, 	saepeino, 	VER, 	Numb=Sing, 	et quæ tamen sæpeinobis obiicitur ingenuè 
+-
 3052, 	Ec, 	ec, 	CONcoo, 	MORPH=empty, 	veras esse Dei Ec clesias . Vnica 
 3093, 	mneģ, 	nneg, 	PROpos, 	Numb=Sing 	Christi , Oues mneģ vocẽ meã audiunt 
 3135, 	Ecclesię, 	ec, 	CONcoo, 	MORPH=empty, ad veræ Ecclesię clesię designationẽ à 
-6511 	annoà 	annoa 	NOMcom 	Case=Nom|Numb=Sing|Deg=Pos 	quæ contigisse videtur annoà Pauli cõuersione 28 
 3139, 	pronuntiã, 	pronuntio, 	VER, 	Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act|Person=2 	designationẽ à nõnullis pronuntiã tur , ostendũt 
 3191, 	igittir, 	igittir, 	CONcoo, 	MORPH=empty, 	praxis . Sũt igittir huiusmodi Ecclesię quidem 
 3211, 	le, 	lego?, 	NOMcom, 	Case=Nom|Numb=Sing, Sic il le à nobis dicitur 
 3226, 	ratiocina, 	ratiocinus, 	ADJqua, 	Case=Abl|Numb=Sing|Deg=Pos, 	modò idem ille ratiocina tur . Sed 
+-
 3252, 	vetbum, 	uetubus, 	NOMcom, 	Case=Acc|Numb=Sing 	, verum Dei vetbum et vitæ æternæ 
 3280, 	Aposto, 	apostus, 	NOMpro, 	Case=Abl|Numb=Sing, 	( qualis ab Aposto lis præscripta est 
 3292, 	addanit, 	addaneo, 	VER, 	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3, 	adiungant  et addanit  vt non 
@@ -58,32 +60,45 @@ Id,Form,Lemma,POS,Morph,Context
 3366, 	discipli, 	disciplus, 	NOMcom, 	Case=Gen|Numb=Sing|Deg=Pos, 	Quia verò hæc discipli na maximè hac 
 3428, 	Eccsesiasticę, 	eccesiasticus, 	ADJqua, 	Numb=Sing|Deg=Pos, 	hoe de disciplinę Ecclesiasticę ar gumento maximè 
 3429, 	ar, 	ar, 	NOMcom, 	Case=Acc|Numb=Sing, 	de disciplinę Ecclesiasticę ar argumento maximè ostentare 
+-
 3441, 	gnos, 	gnos, 	NOMcom, 	Case=Acc|Numb=Plur, 	enim præter ma gnos in ipsum Pauli 
 3550, 	rore, 	ros, 	NOMcom, 	Case=Abl|Numb=Sing, 	digressionibus et errore rore ad ipsum Paulũ 
+-
 3656, 	locatæ, 	loco, 	VER, 	Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass, 	meę rectè collocatæ locatæ fructum hunc maximum 
 3734, 	retinend, 	retineo, 	VER, 	Case=Acc|Numb=Sing|Mood=Adj|Voice=Pass, 	quę erũt cõstitutæ retinend as hac disputatione 
+-
 3989, 	Ecclesi, 	Ecclesis, 	NOMpro, 	Case=Dat|Numb=Plur, 	armis et prudentia Ecclesi æ Callicanæ ab 
 3990, 	Callicanæ, 	Callicanus, 	ADJqua, 	Case=Nom|Numb=Plur|Gend=Fem|Deg=Pos, 	et prudentia Ecclesiæ Callicanæ ab aduersariorum atrocissimis 
+-
 4111, 	quidemi, 	quidemi, 	PROind, 	Case=Nom|Deg=Pos, 	celebraris adeò quidem vt qui 
+-
 4189, icationis, 	praedicatio, 	NOMcom, 	Case=Gen|Numb=Sing, 	tuarum laudum præd prædicationis conatum et symbolum 	1
+---locis communi---------
 4272, 	E, 	ex, 	PRE, 	MORPH=empty, 	locis tractantur . E Abstinentia ciborum cap 
 4314, 	SV, 	su, 	PRE, 	Case=Nom|Numb=Sing|Person=1 	fiat cap . SV . 2o . 
 4624, 	i3, 	it, 	NOMcom, 	Numb=Sing,  	. V . i3 . pag . 
 4628, 	3os, 	eo?, 	PROper, 	Case=Nom|Numb=Plur, 	. pag . 3os . de Presbyteris 
+-
 4959, 	rinam, 	rina, 	NOMcom, 	Case=Acc|Numb=Sing, 	sanam Euangelij doct rinam  ab ipso 
+
 5062, 	SaIutationem, 	saiutatio, 	NOMcom, 	Case=Acc|Numb=Sing 	, nempe  SaIutationem et argumenti 
 Saved	
+-
 5401, 	Deusnos, 	deusni, 	NOMpro, 	Case=Acc|Numb=Plur, 	. Quia enim Deusnos seruare vult ,
 5699, 	nostiæ, 	nostia, 	NOMcom, 	Case=Gen|Numb=Sing|Gend=Fem
 5705, 	generarionis, 	generatio, 	NOMcom, 	Case=Gen|Numb=Sing
+-
 5978, 	iuè, 	iuis, 	NOMcom, 	Case=Nom|Numb=Sing, 	non autem act iuè in Deo accipimus 
 6024, 	acedoniam, 	acedonia, 	NOMcom, 	Case=Acc|Numb=Sing, 	proficiscerer in M acedoniam  permaneto , 
-6569, 	Thessalonieenses, 	Thessalonienses 	NOMpro 	Case=Acc|Numb=Plur|Deg=Pos 	, quæ ad Thessalonieenses scripta est ,
-6631 	pseudofeatres 	pseudofeatrus 	NOMcom 	Case=Nom|Numb=Plur|Gend=MascFem 	Euangelij per huiusmodi pseudofeatres concionatores et nebulones 
-6730 	etoτύπiν 	etotupis 	ADV 	Case=Nom|Numb=Sing 	docendi , quam etoτύπiν appellat Paulus Timoth 
-6794 	sup 	fup 	NOMcom 	Case=Nom|Numb=Sing 	Illustrat exemplo quod sup . versic . 
-6994 	quæ stiones 	stio 	NOMcom 	Case=Nom|Numb=Plur
-7011 	Ia 	ia 	INJ 	Case=Nom|Numb=Sing|Deg=Pos  . vers . Ia eas Iudaicas fabulas 
-7175 	atrendant 	atrendo 	VER 	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3 	Ait enim Ne attendant . Nam quasdam 
-7439 	Dein 	deinde 	ADV 	Deg=Pos 	sit opus . Dein de prædicatur Christus 
-7582 	insistamus 	insisto 	VER 	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1 	vtilẽ perueniamus et insistamus ei acquiescentes . 
+6569, 	Thessalonieenses, 	Thessalonienses, 	NOMpro, 	Case=Acc|Numb=Plur|Deg=Pos 	, quæ ad Thessalonieenses scripta est ,
+-
+6631, 	pseudofeatres, 	pseudofeatrus, 	NOMcom, 	Case=Nom|Numb=Plur|Gend=MascFem, 	Euangelij per huiusmodi pseudofeatres concionatores et nebulones 
+6730, 	etoτύπiν, 	etotupis, 	ADV, 	Case=Nom|Numb=Sing, 	docendi  quam etoτύπiν appellat Paulus Timoth 
+6794, 	sup, 	fup, 	NOMcom, 	Case=Nom|Numb=Sing, 	Illustrat exemplo quod sup . versic . 
+-
+6994, 	quæ stiones, 	stio, 	NOMcom, 	Case=Nom|Numb=Plur
+-
+7011. 	Ia, 	ia, 	INJ, 	Case=Nom|Numb=Sing|Deg=Pos,  . vers . Ia eas Iudaicas fabulas 
+7175, 	atrendant, 	atrendo, 	VER, 	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3, 	Ait enim Ne attendant . Nam quasdam 
+7439, 	Dein, 	deinde, 	ADV, 	Deg=Pos, 	sit opus . Dein de prædicatur Christus 
+7582, 	insistamus, 	insisto, 	VER, 	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=1, 	vtilẽ perueniamus et insistamus ei acquiescentes . 

@@ -17,11 +17,11 @@ Timot,Timotheus,I Tim,"Épître à Timothée, 1re"
 Timot,Timotheus,II Tim,"Épître à Timothée, 2e"
 Tit,Titus,Tit,Épître à Tite
 ,,Col,Épître aux Colossiens
-,,I Cor,"Épître aux Corinthiens, 1re"
+Corinth,,I Cor,"Épître aux Corinthiens, 1re"
 ,,II Cor,"Épître aux Corinthiens, 2e"
 ,,Eph,Épître aux Éphésiens
 ,,Gal,Épître aux Galates
-,,Hbr,Épître aux Hébreux
+Hebr,Hebraeus,Hbr,Épître aux Hébreux
 ,,Phil,Épître aux Philippiens
 Romanor,Romanus,Rm,Épître aux Romains
 ,,I Th,"Épître aux Thessaloniciens, 1re"
@@ -38,7 +38,7 @@ Romanor,Romanus,Rm,Épître aux Romains
 ,,Io,Évangile de Jean
 ,,Lc,Évangile de Luc
 ,,Mc,Évangile de Marc
-,,Mt,Évangile de Matthieu
+Math,Matthaeus,Mt,Évangile de Matthieu
 ,,Ex,Exode
 ,,Ez,Ézéchiel
 ,,Gn,Genèse

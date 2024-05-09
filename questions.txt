@@ -97,7 +97,8 @@ Gen  lemma, gen, POS NOMpro, Morph empty
 => à la fin faire une recherche des lemm de nom biblique dans le lemmatisateur pour normaliser le tout. 
 
 Abréviation récurente 
-versic = uersiculus //verset
+versic; uersiculus //verset
+August; Augustinus
 
 ****************
 deploiement en txt.
