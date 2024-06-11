@@ -118,3 +118,8 @@ id, token,	lemma,	pos, varia,
 7909, 	Theoria, 	theoria, NOMcom, lat. chr.
 7947, 	mechanico, 	mechanicus, ADJqua, lat. chr.
 8388, 	circunstantias, 	circumstantia,	NOMcom, lat tech
+8414, 	attestari, 	attestor, VER, lat tech
+8486, 	hypocriticam, 	hypocriticus, 	ADJqua, neolatin
+8627, 	Manichei, 	manichaeus, 	NOMcom, lat. chr.
+8659 	myriades 	myrias 	NOMcom
+8700 	increatum 	increatus 	ADJqua
