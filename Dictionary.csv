@@ -115,3 +115,6 @@ id, token,	lemma,	pos, varia,
 7762, 	curiositati, 	curiositas, 	NOMcom, lat. clas.?
 7861, 	theoriticus, 	theoreticus, 	ADJqua, lat. chr. , spéculatif
 7863, 	practicus, 	practicus, 	ADJqua, lat. chr.
+7909, 	Theoria, 	theoria, NOMcom, lat. chr.
+7947, 	mechanico, 	mechanicus, ADJqua, lat. chr.
+8388, 	circunstantias, 	circumstantia,	NOMcom, lat tech
