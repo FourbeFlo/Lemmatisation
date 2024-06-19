@@ -96,7 +96,7 @@ id, token,	lemma,	pos, varia,
 6415, 	Papali, papalis, ADJqua, lat. med.
 6504, 	Beza, 	Beza, 	NOMpro, Bèze 
 6503, T, @abr.pN, NOMpro, abréviation de nom de personne
-6548, Colossenses, Colossenses, NOMpro, latin chré., les Colossiens
+6548, Colossenses, Colossenses, NOMpro, latin chré., Livres biblique les Colossiens
 6603, Apocalyp, Apocalypsis, NoOMpro, abréviation de livre biblique ,livre biblique
 6626, 	puritate, 	puritas, 	NOMcom, latin chr.,
 6631, 	pseudofratres, 	pseudofater,  NOMcom, lat. chr.
@@ -121,5 +121,12 @@ id, token,	lemma,	pos, varia,
 8414, 	attestari, 	attestor, VER, lat tech
 8486, 	hypocriticam, 	hypocriticus, 	ADJqua, neolatin
 8627, 	Manichei, 	manichaeus, 	NOMcom, lat. chr.
-8659 	myriades 	myrias 	NOMcom
-8700 	increatum 	increatus 	ADJqua
+8659, 	myriades, 	myrias, 	NOMcom,
+8700, 	increatum, 	increatus, 	ADJqua,
+8711, 	realitates, 	realitas, 	NOMcom, lat. med.
+8713, 	notionalitates, 	notionalitas, 	NOMcom,voc. lambert?
+8800, 	purgatorij, 	purgatorium, 	NOMcom,lat. chré
+8815, 	Erasmum 	Erasmus 	NOMpro
+8863, 	vaniloquium, 	uaniloquium, 	NOMcom, lat. chré. 
+8865, 	quantunuis, 	quantumuis, 	CONsub, lat. tech
+8874 	Epitheta 	epithetum 	NOMcom lat. tech.
