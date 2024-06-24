@@ -20,7 +20,7 @@ Coloss,Colossenses,Col,Épître aux Colossiens
 Corinth,,I Cor,"Épître aux Corinthiens, 1re"
 ,,II Cor,"Épître aux Corinthiens, 2e"
 ,,Eph,Épître aux Éphésiens
-,,Gal,Épître aux Galates
+Galat,Galatae,Gal,Épître aux Galates
 Hebr,Hebraei,Hbr,Épître aux Hébreux
 ,,Phil,Épître aux Philippiens
 Romanor,Romani,Rm,Épître aux Romains
@@ -39,6 +39,7 @@ Ioann,Ioannes,II Io,"Épître de Jean, 2e"
 ,,Lc,Évangile de Luc
 ,,Mc,Évangile de Marc
 Math,Matthaeus,Mt,Évangile de Matthieu
+Matth, Matthaeus, Mt, Évangile de Matthieu
 ,,Ex,Exode
 ,,Ez,Ézéchiel
 ,,Gn,Genèse

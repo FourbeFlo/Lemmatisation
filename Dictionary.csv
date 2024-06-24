@@ -130,3 +130,6 @@ id, token,	lemma,	pos, varia,
 8863, 	vaniloquium, 	uaniloquium, 	NOMcom, lat. chré. 
 8865, 	quantunuis, 	quantumuis, 	CONsub, lat. tech
 8874 	Epitheta 	epithetum 	NOMcom lat. tech.
+8974, 	cæcutire, 	caecutio, 	VER, lat tech
+9009, 	siquis, 	siquis, PROind, lat si aliquis/si quis ou siquis
+9014, 	Hypophora, 	hypophora, 	NOMcom,lat tard.
