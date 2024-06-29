@@ -132,4 +132,11 @@ id, token,	lemma,	pos, varia,
 8874 	Epitheta 	epithetum 	NOMcom lat. tech.
 8974, 	cæcutire, 	caecutio, 	VER, lat tech
 9009, 	siquis, 	siquis, PROind, lat si aliquis/si quis ou siquis
-9014, 	Hypophora, 	hypophora, 	NOMcom,lat tard.
+9014, 	Hypophora, 	hypophora, 	NOMcom,lat tard, 	
+9140, 	Papistarum, 	papista, 	NOMcom, neolatin, les papistes
+9241, 	Marcionitas, 	Marcionita, 	NOMcom, lat tard (tert), ae m. celui qui appartient a la secte de Marcio
+9409, 	paronomasia, 	paronomasia, 	NOMcom, voc. techn
+9502, 	Respon, 	responsa, 	NOMcom, lat med, le Répons
+9602, 	patricidis, 	patricida, 	NOMcom, lat tard,  
+9632, 	’, 	’, 	PUNC, greek elision
+9795 	Cæremonialis 	Caeremoniale 	NOMpro, lat modern. livre de Cérémonie XVI

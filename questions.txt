@@ -109,3 +109,7 @@ deploiement en txt.
 
 correction de l'ocr
 pour rendre les mots corriger visible en txt : *mot* on peut les retrouver facilement
+
+Abreviation : 
+
+Respon. =Responsa 
