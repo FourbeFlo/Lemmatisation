@@ -143,3 +143,9 @@ id, token,	lemma,	pos, varia,
 9927, 	immorigeri, 	immoriger, 	ADJqua, lat. tard. 
 10008, 	Pelagius, 	Pelagius, 	NOMpro, nom propre
 10167, 	Ethicis, 	ethicus, 	ADJqua, lat. tard., le nom est ici plus probalement à considérer comme le titre d'un traité de moral et donc à classer dans NOMpro..à voir
+10630, 	idoneitas, 	idoneitas, NOMcom, lat. tard., 
+10755, 	blasphemum, 	blasphemum, 	NOMcom, lat chr. , le latin hesite etre neutre et masculin pour la forme substantivée...chez lambert c'est neutre
+10797, 	blasphemus, 	blasphemus, ADJqua, lat. chr.,
+10922, 	Insectator, 	insectator, 	NOMcom, lat chr. 
+11127, 	excusabilis, 	excusabilis, 	ADJqua, lat class.
+11280, 	Genes, 	Genesis2, 	NOMpro, lat tard, livre bilbique : 2 est ajouter pour différencier de genesis la création

@@ -77,7 +77,9 @@ Episcopus =episcopus
 Author
 Maximus = maximus (adjectif laudatif)
 2012919.png : je rentre le vocabulaire mais enlever la page pour le topic modeling
-
+Les majuscule : 
+Monachorum => monachorum => NOMcom
+Episcopus => episcopus : => NOMcom
 
 Decisions : 
 les abréviations
@@ -87,6 +89,8 @@ Quand il est réduit à une lettre
 Quand il est davantage identifiable alors on peut desambiguiser et ajouter le mot au dictionnaire
 Luc. Lucas
 Crysosto. Crysostomus
+August; Augustinus
+j'ai lié le token abrégé à son lemme comme ci dessus. 
 Attention à différencier un luc personnage d'un Luc livre biblique dans le cas du livre biblique on garde l'abréviation. 
 
 * Les livre bibliques : 
@@ -96,11 +100,12 @@ Gen  lemma, gen, POS NOMpro, Morph empty
 
 => à la fin faire une recherche des lemm de nom biblique dans le lemmatisateur pour normaliser le tout. 
 
-Abréviation récurente 
+Abréviation récurente @abr.com
 Epist; epistola
+v; versiculus 
+V; versiculus
 versic; uersiculus //verset
-August; Augustinus
-j'ai lié le token abrégé à son lemme comme ci dessus. 
+
 
 ****************
 deploiement en txt.
@@ -113,3 +118,6 @@ pour rendre les mots corriger visible en txt : *mot* on peut les retrouver facil
 Abreviation : 
 
 Respon. =Responsa 
+
+Les faute d'impression, rare mais existance, ne doivent pas être corrigée dans l'ocr, car elle contribue à l'amélioration du modèle. Il faut en revanche les corriger pour l'édition du texte.
+exemple : 2012936.png

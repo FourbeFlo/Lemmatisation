@@ -4277,7 +4277,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 23	23	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4291,7 +4291,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 9	9	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4314,7 +4314,7 @@ cap	capitulum	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2o	20	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4334,7 +4334,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4349,7 +4349,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 4	4	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4366,7 +4366,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 16	16	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4379,7 +4379,7 @@ cap	capitulum	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 8	8	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4408,7 +4408,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 9	9	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4427,7 +4427,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 22	22	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4448,7 +4448,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 3	3	PUNC	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4466,7 +4466,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 pag	pagina	NOMcom	Case=Acc|Numb=Sing
@@ -4481,7 +4481,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4496,7 +4496,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4512,7 +4512,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 25	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4527,7 +4527,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4548,7 +4548,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2o	20	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4563,7 +4563,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 22	22	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4577,7 +4577,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 4	4	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 8	8	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4593,7 +4593,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 13	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4608,7 +4608,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 18	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4620,7 +4620,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 13	13	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4635,7 +4635,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4649,7 +4649,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 12	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4666,7 +4666,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 4	4	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4686,7 +4686,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4700,7 +4700,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 8	8	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4715,7 +4715,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 9	9	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4734,7 +4734,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4743,7 +4743,7 @@ pag	pagina	NOMcom	Case=Nom|Numb=Sing
 252	252	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I6	16	ADJcar	MORPH=empty
 pag	pagina	NOMcom	Case=Nom|Numb=Sing
@@ -4756,7 +4756,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 9	9	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -4770,7 +4770,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 23	23	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -5366,7 +5366,7 @@ Hebr	Hebraeus	NOMpro	Case=Ind
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 4	4	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -5473,7 +5473,7 @@ Ioan	Ioannes	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I6	is	PROdem	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -5626,7 +5626,7 @@ Tit	Titus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 I	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 3	3	ADJcar	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 Corinthios	Corinthii	ADJqua	Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos
@@ -5658,7 +5658,7 @@ Hebr	Hebraeus	NOMpro	Case=Nom
 .	.	PUNC	MORPH=empty
 12	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 9	9	ADJcar	MORPH=empty
 Vnus	unus	ADJcar	Case=Nom|Numb=Sing|Gend=Masc
@@ -5782,7 +5782,7 @@ II	2	ADJcar	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 II	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I9	is	PROdem	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -6386,7 +6386,7 @@ Tessal	Thessalonicenses	NOMpro	Case=Acc|Numb=Plur
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 I2	is	NOMcom	Person=2
 .	.	PUNC	MORPH=empty
@@ -6655,7 +6655,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -7329,7 +7329,7 @@ Nehem	Nehemias	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 7	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 62	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -8905,14 +8905,13 @@ ferant	fero	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
 et	et2	CONcoo	MORPH=empty
 sibi	sui1	PROref	Case=Dat|Numb=Sing
 vsurpent	usurpo	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Rom	Romani	NOMpro	Case=Nom|Numb=Plur
+Rom	Romani	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
 vocantur	uoco	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-Ra	ra	NOMcom	Case=Nom|Numb=Plur
-bi	bic	NOMcom	Numb=Sing
-Marth	Marthus	NOMpro	Case=Ind
+Rabi	rabbi	NOMcom	MORPH=empty
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 23	23	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -8931,7 +8930,7 @@ clauem	clauis	NOMcom	Case=Acc|Numb=Sing
 scientiæ	scientia	NOMcom	Case=Dat|Numb=Sing
 iactant	iacto	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
-Matth	Matha	NOMpro	Case=Ind|Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 23	23	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -8941,7 +8940,7 @@ omnibus	omnis	PROind	Case=Abl|Numb=Plur|Gend=Com
 intelligitur	intelligo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
 ,	,	PUNC	MORPH=empty
 quàm	quam2	ADVint	MORPH=empty
-graphicè	graphice	ADV	Case=Abl|Numb=Sing|Deg=Pos
+graphicè	graphicus	ADV	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 verè	uere	ADV	Case=Abl|Deg=Pos
 hîc	hic2	ADV	Deg=Pos
@@ -8950,7 +8949,7 @@ à	ab	PRE	MORPH=empty
 Paulo	paulo	NOMpro	Case=Abl|Numb=Sing
 proposita	propono	VER	Case=Nom|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
 sit	sum1	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Scholastica	Scholasticus	ADJqua	Case=Nom|Numb=Sing|Deg=Pos
+Scholastica	scholasticus2	ADJqua	Case=Nom|Numb=Sing|Gend=Com
 Theologia	theologia	NOMcom	Case=Nom|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 Magistrorum	magister	NOMpro	Case=Gen|Numb=Plur
@@ -9008,9 +9007,9 @@ bonam	bonus	ADJqua	Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos
 esse	sum1	VER	Mood=Inf|Tense=Pres|Voice=Act
 Legem	lex	NOMcom	Case=Acc|Numb=Sing
 ,	,	PUNC	MORPH=empty
-siquis	siquor	NOMcom	Case=Abl|Numb=Sing
+siquis	siquis	PROind	MORPH=empty
 ea	is	PROdem	Case=Nom|Numb=Sing|Gend=Fem
-legitimè	legitime	ADV	Deg=Pos
+legitimè	legitime	ADV	MORPH=empty
 vtatur	utor	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
 .	.	PUNC	MORPH=empty
 Hypophora	hypophora	NOMpro	Case=Nom|Numb=Sing
@@ -9071,7 +9070,7 @@ ab	ab	PRE	MORPH=empty
 ea	is	PROdem	Case=Abl|Numb=Sing|Gend=Fem
 graui	grauis	ADJqua	Case=Abl|Numb=Sing|Gend=Com|Deg=Pos
 accusatione	accusatio	NOMcom	Case=Abl|Numb=Sing
-defẽdere	defedo	VER	Mood=Inf|Tense=Pres|Voice=Act
+defẽdere	defendo	VER	Mood=Inf|Tense=Pres|Voice=Act
 ,	,	PUNC	MORPH=empty
 quasi	quasi2	CONsub	MORPH=empty
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
@@ -9082,7 +9081,7 @@ sed	sed	CONcoo	MORPH=empty
 srpius	spes	ADV	Numb=Sing|Deg=Comp
 ,	,	PUNC	MORPH=empty
 vti	utor	VER	Mood=Inf|Tense=Pres|Voice=Dep
-Rom	Romani	NOMpro	Case=Nom|Numb=Plur
+Rom	Romani	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 7	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -9091,7 +9090,7 @@ v	ualeo	ADJcar	Numb=Sing
 12	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-Oalat	oalo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Galat	Galatae	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -9102,8 +9101,7 @@ vers	uersus1	NOMcom	Case=Nom|Numb=Sing
 Ex	ex	PRE	MORPH=empty
 quo	qui1	PROrel	Case=Abl|Numb=Sing|Gend=MascNeut
 facilè	facile	ADV	Deg=Pos
-int	inter	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-elligitur	elligo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
+intelligitur	intelligo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
 ,	,	PUNC	MORPH=empty
 quàm	quam2	ADVint	MORPH=empty
 validè	ualide	ADV	Deg=Pos
@@ -9121,7 +9119,7 @@ aërẽ	aes	NOMcom	Case=Abl|Numb=Sing
 ipsum	ipse	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 subtilitate	subtilitas	NOMcom	Case=Abl|Numb=Sing
 suarum	suus	PROpos.ref	Case=Gen|Numb=Plur|Gend=Fem
-quęstionum	questio	NOMcom	Case=Gen|Numb=Plur
+quęstionum	quaestio	NOMcom	Case=Gen|Numb=Plur
 fatigantibus	fatigo	VER	Case=Abl|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act
 hominibus	homo	NOMcom	Case=Dat|Numb=Plur
 :	:	PUNC	MORPH=empty
@@ -9131,7 +9129,7 @@ Dei	deus	NOMcom	Case=Gen|Numb=Sing
 verbo	uerbum	NOMcom	Case=Abl|Numb=Sing
 esset	sum1	VER	Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
 contraria	contrarius	ADJqua	Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos
-Euangelii	Euangelium	NOMpro	Case=Gen|Numb=Sing
+Euangelii	euangelium	NOMcom	Case=Gen|Numb=Sing
 puri	purus	ADJqua	Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos
 prædicatio	praedicatio	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -9140,7 +9138,7 @@ idem	idem	PROdem	Case=Nom|Numb=Sing|Gend=MascNeut
 nobis	nos	PROper	Case=Dat|Numb=Plur
 à	ab	PRE	MORPH=empty
 Doctoribus	doctor	NOMcom	Case=Abl|Numb=Plur
-Papistarum	Papistares	NOMcom	Case=Gen|Numb=Sing
+Papistarum	papista	NOMcom	Case=Gen|Numb=Sing
 obiicitur	obicio	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
 .	.	PUNC	MORPH=empty
 Sed	sed	CONcoo	MORPH=empty
@@ -9175,7 +9173,7 @@ etiam	etiam	ADV	Deg=Pos
 abutentes	abutor	VER	Case=Nom|Numb=Plur|Gend=MascFem|Mood=Par|Tense=Pres|Voice=Dep
 circa	circa1	ADV	MORPH=empty
 huiusmodi	huiusmodi	ADV	Deg=Pos
-quęstiones	questio	NOMcom	Case=Acc|Numb=Plur
+quęstiones	quaestio	NOMcom	Case=Acc|Numb=Plur
 languescebant	languesco	VER	Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 Gentes	gens	NOMcom	Case=Nom|Numb=Plur
@@ -9193,7 +9191,7 @@ quidem	quidem	ADV	Deg=Pos
 istas	iste	PROdem	Case=Acc|Numb=Plur|Gend=Fem
 de	de	PRE	MORPH=empty
 Genealogiis	genealogia	NOMpro	Case=Abl|Numb=Plur
-quęstiones	questio	NOMcom	Case=Acc|Numb=Plur
+quęstiones	quaestio	NOMcom	Case=Acc|Numb=Plur
 attingebant	attingo	VER	Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
 :	:	PUNC	MORPH=empty
 vel	uel2	CONcoo	MORPH=empty
@@ -9217,7 +9215,7 @@ ea	is	PROdem	Case=Abl|Numb=Sing|Gend=Fem
 vti	utor	ADVrel	MORPH=empty
 Iudæi	Iudaei	NOMpro	Case=Nom|Numb=Plur
 ,	,	PUNC	MORPH=empty
-innurriti	innurritus	ADJqua	Case=Nom|Numb=Plur|Gend=Masc|Deg=Pos
+innurriti	innutrio	VER	Case=Nom|Numb=Plur|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass
 fuerant	sum1	VER	Numb=Plur|Mood=Ind|Tense=Pqp|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 Præclara	praeclarus	ADJqua	Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos
@@ -9237,14 +9235,14 @@ Ecclesia	ecclesia	NOMcom	Case=Abl|Numb=Sing
 Christiana	Christianus	ADJqua	Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos
 et	et2	CONcoo	MORPH=empty
 sub	sub	PRE	MORPH=empty
-Euangelio	Euangelium	NOMpro	Case=Abl|Numb=Sing
+Euangelio	euangelium	NOMcom	Case=Abl|Numb=Sing
 valde	ualde	ADV	Deg=Pos
 notanda	noto	VER	Case=Nom|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass
 contra	contra2	PRE	MORPH=empty
-Marcionitas	Marcionitae	NOMcom	Case=Nom|Numb=Plur
+Marcionitas	Marcionita	NOMcom	Case=Nom|Numb=Plur
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-Manichęos	Manichei	NOMpro	Case=Acc|Numb=Plur
+Manichęos	manichaeus	NOMcom	Case=Acc|Numb=Plur
 .	.	PUNC	MORPH=empty
 Obseruandum	obseruo	VER	Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass
 tamen	tamen	ADV	Deg=Pos
@@ -9278,15 +9276,15 @@ et	et2	CONcoo	MORPH=empty
 vt	ut4	CONsub	MORPH=empty
 vanam	uanus	ADJqua	Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos
 illam	ille	PROdem	Case=Acc|Numb=Sing|Gend=Fem
-Iudaizantium	Iudaizantium	NOMpro	Case=Gen|Numb=Plur|Mood=Par|Tense=Pres|Voice=Act
-doctorũ	doctorus	ADJqua	Case=Dat|Numb=Sing
+Iudaizantium	iudaizo	VER	Case=Gen|Numb=Plur|Gend=Com|Mood=Par|Tense=Pres|Voice=Act
+doctorũ	doctor	NOMcom	Case=Gen|Numb=Plur
 ambitionem	ambitio	NOMcom	Case=Acc|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 iactantiam	iactantia	NOMcom	Case=Acc|Numb=Sing
 contunderet	contundo	VER	Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
 :	:	PUNC	MORPH=empty
 qui	qui1	PROrel	Case=Nom|Numb=Plur|Gend=Masc
-quũ	qui5	CONsub	Case=Nom|Numb=Sing|Gend=Neut
+quũ	cum3	CONsub	MORPH=empty
 nihil	nihil	PROind	Case=Ind
 ,	,	PUNC	MORPH=empty
 nisi	nisi	CONsub	MORPH=empty
@@ -9317,7 +9315,7 @@ verus	uerus	ADJqua	Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos
 Legis	lex	NOMcom	Case=Gen|Numb=Sing
 ,	,	PUNC	MORPH=empty
 quam	qui1	PROint	MORPH=empty
-prędicant	predico	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+prędicant	praedico1	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 vsus	usus	NOMcom	Case=Nom|Numb=Plur
 ,	,	PUNC	MORPH=empty
@@ -9359,7 +9357,7 @@ est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 si	si2	CONsub	MORPH=empty
 quis	quis2	PROind	Case=Nom|Numb=Sing|Gend=MascFem
-lagitimè	lagitime	ADV	Deg=Pos
+legitimè	legitime	ADV	MORPH=empty
 ea	is	PROdem	Case=Abl|Numb=Sing|Gend=Fem
 vtatur	utor	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Dep|Person=3
 )	)	PUNC	MORPH=empty
@@ -9429,7 +9427,7 @@ vtilis	utilis	ADJqua	Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos
 nõ	no	ADVneg	Numb=Sing
 vtenti	utor	VER	Case=Dat|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Dep
 illa	ille	PROdem	Case=Nom|Numb=Sing|Gend=Fem
-legitimè	legitime	ADV	Deg=Pos
+legitimè	legitime	ADV	MORPH=empty
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 vt	ut1	ADVrel	MORPH=empty
@@ -9464,7 +9462,7 @@ occasionem	occasio	NOMcom	Case=Acc|Numb=Sing
 trahunt	traho	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 ea	is	PROdem	Case=Nom|Numb=Plur|Gend=Neut
-legitimè	legitime	ADV	Deg=Pos
+legitimè	legitime	ADV	MORPH=empty
 non	non	ADVneg	MORPH=empty
 vtuntur	utor	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
 ,	,	PUNC	MORPH=empty
@@ -9502,7 +9500,7 @@ fucandam	fuco	VER	Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass
 et	et2	CONcoo	MORPH=empty
 tegendam	tego	VER	Case=Acc|Numb=Sing|Gend=Fem|Mood=Adj|Voice=Pass
 .	.	PUNC	MORPH=empty
-Respon	respono	VER	Numb=Sing
+Respon	responsa	NOMcom	Case=Acc|Numb=Sing|Gend=Fem
 .	.	PUNC	MORPH=empty
 Hoc	hic1	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 verum	uerus	ADJqua	Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos
@@ -9591,7 +9589,7 @@ contemptoribus	contemptor	NOMcom	Case=Dat|Numb=Plur
 et	et2	CONcoo	MORPH=empty
 ijs	is	PROdem	Case=Dat|Numb=Plur|Gend=Com
 qui	qui1	PROrel	Case=Nom|Numb=Plur|Gend=Masc
-subijci	subiicus	NOMcom	MORPH=empty
+subijci	subicio	VER	Mood=Inf|Tense=Pres|Voice=Pass
 nesciunt	nescio	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 :	:	PUNC	MORPH=empty
 impijs	impius	ADJqua	Case=Dat|Numb=Plur|Gend=Com|Deg=Pos
@@ -9602,16 +9600,16 @@ nefarijs	nefarius	ADJqua	Case=Dat|Numb=Plur|Gend=Com|Deg=Pos
 et	et2	CONcoo	MORPH=empty
 profanis	profanus	ADJqua	Case=Dat|Numb=Plur|Gend=Com|Deg=Pos
 ,	,	PUNC	MORPH=empty
-patricidis	patricida	NOMcom	Case=Dat|Numb=Plur
+patricidis	patricida	NOMcom	Case=Abl|Numb=Plur
 et	et2	CONcoo	MORPH=empty
 matricidis	matricida	NOMcom	Case=Dat|Numb=Plur
 ,	,	PUNC	MORPH=empty
 homicidis	homicida	NOMcom	Case=Dat|Numb=Plur
 .	.	PUNC	MORPH=empty
-Io	io	INJ	Case=Nom
+10	10	ADJcar	MORPH=empty
 Scortatoribus	scortator	NOMcom	Case=Abl|Numb=Plur
 ,	,	PUNC	MORPH=empty
-maseulorum	maseulus	ADJqua	Case=Gen|Numb=Plur
+masculus	masculus	ADJqua	Case=Gen|Numb=Plur
 concubitoribus	concubitor	NOMcom	Case=Abl|Numb=Plur
 ,	,	PUNC	MORPH=empty
 plagiarijs	plagiarius	NOMcom	Case=Dat|Numb=Plur|Gend=Com
@@ -9622,7 +9620,7 @@ mendacibus	mendax	ADJqua	Case=Dat|Numb=Plur|Gend=Com|Deg=Pos
 periuris	periurus	ADJqua	Case=Dat|Numb=Plur|Gend=Com
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-siquid	siquid	CONsub	Numb=Sing|Gend=Neut
+siquid	siquis	PROind	Case=Nom|Numb=Sing|Gend=MascNeut
 aliud	alius	PROind	Case=Nom|Numb=Sing|Gend=Neut
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 quod	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Neut
@@ -9660,7 +9658,7 @@ vitia	uitium	NOMcom	Case=Nom|Numb=Plur
 corrigantur	corrigo	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-emendentut	emendentus	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+emendentur	emendo	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 :	:	PUNC	MORPH=empty
 non	non	ADVneg	MORPH=empty
 autem	autem	CONcoo	MORPH=empty
@@ -9710,7 +9708,7 @@ potest	possum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 cur	cur	ADVint	MORPH=empty
 cùm	cum3	CONsub	MORPH=empty
 illæ	ille	PROdem	Case=Nom|Numb=Plur|Gend=Fem
-questiones	questio	NOMcom	Case=Nom|Numb=Plur
+questiones	quaestio	NOMcom	Case=Nom|Numb=Plur
 ,	,	PUNC	MORPH=empty
 quas	qui1	PROrel	Case=Acc|Numb=Plur|Gend=Fem
 damnat	damno	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -9718,7 +9716,7 @@ Paulus	Paulus	NOMpro	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 ad	ad2	PRE	MORPH=empty
 Legem	lex	NOMcom	Case=Acc|Numb=Sing
-cæromonialem	caeromonialis	ADJqua	Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos
+cæremonialem	caeremonialis	ADJqua	Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos
 et	et2	CONcoo	MORPH=empty
 politicã	politicus	ADJqua	Case=Nom|Numb=Plur|Gend=Neut|Deg=Pos
 pertineant	pertineo	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
@@ -9736,7 +9734,7 @@ cæremoniali	caeremonialis	ADJqua	Case=Abl|Numb=Sing|Gend=Com|Deg=Pos
 aut	aut	CONcoo	MORPH=empty
 politica	politicus	ADJqua	Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos
 .	.	PUNC	MORPH=empty
-Respon	respono	VER	Numb=Sing
+Respon	responsa	NOMcom	Case=Acc|Numb=Sing|Gend=Fem
 .	.	PUNC	MORPH=empty
 Quòd	qui2	CONsub	Case=Nom
 illa	ille	PROdem	Case=Abl|Numb=Sing|Gend=Fem
@@ -9762,7 +9760,7 @@ pietatis	pietas	NOMcom	Case=Gen|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 sanctitatis	sanctitas	NOMcom	Case=Gen|Numb=Sing
 nomine	nomen	NOMcom	Case=Abl|Numb=Sing
-cõmendabant	comendo	VER	Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
+cõmendabant	commendo	VER	Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 Deinde	deinde	ADV	Deg=Pos
 cùm	cum3	CONsub	MORPH=empty
@@ -9795,7 +9793,7 @@ Paulus	Paulus	NOMpro	Case=Nom|Numb=Sing
 ex	ex	PRE	MORPH=empty
 quo	qui1	PROrel	Case=Abl|Numb=Sing|Gend=MascNeut
 et	et2	CONcoo	MORPH=empty
-Cæremonialis	Caeremonialis	NOMpro	Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos
+Cæremonialis	Caeremoniale	NOMpro	Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos
 et	et2	CONcoo	MORPH=empty
 Politicæ	politicus	ADJqua	Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos
 legis	lex	NOMcom	Case=Gen|Numb=Sing
@@ -9820,7 +9818,7 @@ hodie	hodie	ADV	Deg=Pos
 nostrorũ	noster	PROpos	Case=Abl|Numb=Plur|Gend=Masc
 aduersariorũ	aduersarius1	NOMcom	Case=Abl|Numb=Sing|Deg=Comp
 et	et2	CONcoo	MORPH=empty
-Monachorum	Monachi	NOMpro	Case=Gen|Numb=Plur
+Monachorum	monachus	NOMcom	Case=Gen|Numb=Plur
 fastus	fastus1	NOMcom	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
@@ -9895,7 +9893,7 @@ qui	qui1	PROrel	Case=Nom|Numb=Plur|Gend=Masc
 sponte	spons	ADV	Deg=Pos
 iam	iam	ADV	Deg=Pos
 parent	paro2	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-Legi	lego?	NOMcom	MORPH=empty
+Legi	lex	NOMcom	Case=Dat|Numb=Sing
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 virtutem	uirtus	NOMcom	Case=Acc|Numb=Sing
@@ -9927,7 +9925,7 @@ egeant	egeo	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 qui	qui1	PROrel	Case=Nom|Numb=Plur|Gend=Masc
 sunt	sum1	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-immorigeri	immoriger	ADJqua	Case=Nom|Numb=Plur|Deg=Pos
+immorigeri	immoriger	ADJqua	Case=Nom|Numb=Plur|Gend=Com
 ,	,	PUNC	MORPH=empty
 rebelles	rebellis	ADJqua	Case=Nom|Numb=Plur|Gend=MascFem|Deg=Pos
 ,	,	PUNC	MORPH=empty
@@ -9985,11 +9983,11 @@ est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 homicidas	homicida	NOMcom	Case=Acc|Numb=Plur
 a	ab	PRE	MORPH=empty
-dulteros	dulter	NOMcom	Case=Acc|Numb=Plur
+adulteros	adulter2	ADJqua	Case=Acc|Numb=Plur
 ,	,	PUNC	MORPH=empty
 etc	et2	CONcoo	Deg=Pos
 .	.	PUNC	MORPH=empty
-lusto	lustus	ADJqua	Numb=Sing
+lusto	iustus	ADJqua	Case=Dat|Numb=Sing|Gend=Com
 etiam	etiam	ADV	Deg=Pos
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 vtilis	utilis	ADJqua	Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos
@@ -10006,9 +10004,9 @@ et	et2	CONcoo	MORPH=empty
 omnis	omnis	PROind	Case=Nom|Numb=Sing|Gend=Fem
 virtutis	uirtus	NOMcom	Case=Gen|Numb=Sing
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-noima	noima	NOMcom	Numb=Sing
+norma	norma	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
-Pelagius	Pelagius	ADV	Case=Nom|Numb=Sing
+Pelagius	Pelagius	NOMpro	Case=Nom|Numb=Sing
 putauit	puto	VER	Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
 eatenus	eatenus	ADJqua	Deg=Pos
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
@@ -10016,7 +10014,7 @@ verbum	uerbum	NOMcom	Case=Acc|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 Legem	lex	NOMcom	Case=Acc|Numb=Sing
 vtilem	utilis	ADJqua	Case=Acc|Numb=Sing|Gend=MascFem|Deg=Pos
-esle	espe	INJ	Numb=Sing|Mood=Imp|Tense=Pres|Voice=Act
+esse	sum1	VER	Mood=Inf|Tense=Pres|Voice=Act
 ,	,	PUNC	MORPH=empty
 quatenus	quatenus2	ADVint	MORPH=empty
 tantùm	tantum1	PROdem	Gend=Neut|Deg=Pos
@@ -10032,7 +10030,7 @@ variè	uarie	ADV	Deg=Pos
 disputauit	disputo	VER	Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
 Augustinus	Augustinus	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
-Exlegibus	exlego	NOMcom	Case=Abl|Numb=Plur|Gend=Com|Deg=Pos
+Exlegibus	exlex	ADJqua	Case=Abl|Numb=Plur
 autem	autem	CONcoo	MORPH=empty
 hominibus	homo	NOMcom	Case=Abl|Numb=Plur
 esse	sum1	VER	Mood=Inf|Tense=Pres|Voice=Act
@@ -10056,13 +10054,13 @@ Lex	lex	NOMcom	Case=Nom|Numb=Sing
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-exlegibus	exlego	NOMcom	Case=Dat|Numb=Plur
+exlegibus	exlex	ADJqua	Case=Abl|Numb=Plur
 posita	pono	VER	Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 ne	ne4	CONsub	MORPH=empty
-mancant	manco	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-exleges	exlego	VER	Case=Nom|Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2
+maneant	maneo	VER	Numb=Plur|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+exleges	exlex	ADJqua	Case=Acc|Numb=Plur
 .	.	PUNC	MORPH=empty
 Hîc	hic1	PROdem	Deg=Pos
 autem	autem	CONcoo	MORPH=empty
@@ -10076,11 +10074,10 @@ fontes	fons	NOMcom	Case=Nom|Numb=Plur
 ipsi	ipse	PROdem	Case=Nom|Numb=Plur|Gend=Masc
 duo	duo	ADJcar	Case=Nom|Numb=Plur|Gend=MascNeut
 ,	,	PUNC	MORPH=empty
-R.	Romanus	ADJqua	Case=Gen|Numb=Sing|Deg=Pos
-bellio	bellium	NOMcom	Case=Abl|Numb=Sing
+Rebellio	rebellio	NOMcom	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-Cõtumacia	cothmacia	NOMcom	Case=Abl|Numb=Sing
+Cõtumacia	contumacia	NOMcom	Case=Nom|Numb=Sing
 in	in	PRE	MORPH=empty
 Legem	lex	NOMcom	Case=Acc|Numb=Sing
 ,	,	PUNC	MORPH=empty
@@ -10155,8 +10152,7 @@ tria	tres	ADJcar	Case=Acc|Numb=Plur|Gend=Neut
 genera	genus1	NOMcom	Case=Acc|Numb=Plur
 ,	,	PUNC	MORPH=empty
 Vim	uis	NOMcom	Case=Acc|Numb=Sing
-Libidi	libido	NOMpro	Case=Gen|Numb=Plur
-nem	nem	CONcoo	MORPH=empty
+Lubidinem	libido	NOMcom	Case=Acc|Numb=Sing
 ,	,	PUNC	MORPH=empty
 Fraudes	fraus	NOMcom	Case=Nom|Numb=Plur
 siue	siue1	CONcoo	MORPH=empty
@@ -10169,7 +10165,7 @@ Decimum	decimus	ADJord	Case=Acc|Numb=Sing|Gend=MascNeut|Deg=Pos
 versiculum	uersiculus	NOMcom	Case=Acc|Numb=Sing
 explicuimus	explico	VER	Numb=Plur|Mood=Ind|Tense=Perf|Voice=Act|Person=1
 in	in	PRE	MORPH=empty
-Ethicis	Ethicus	NOMpro	Case=Abl|Numb=Plur
+Ethicis	ethicus	ADJqua	Case=Abl|Numb=Plur
 nostris	noster	PROpos	Case=Abl|Numb=Plur|Gend=Com
 .	.	PUNC	MORPH=empty
 11	3	ADJcar	MORPH=empty
@@ -10178,7 +10174,7 @@ est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 secundum	secundum2	PRE	Numb=Sing
 gloriosum	gloriosus	ADJqua	Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos
-Euãgelium	Euagelius	NOMpro	Case=Acc|Numb=Sing
+Euãgelium	euangelium	NOMcom	Case=Acc|Numb=Sing
 beati	beatus	ADJqua	Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
 ,	,	PUNC	MORPH=empty
@@ -10193,7 +10189,7 @@ inutiles	inutilis	ADJqua	Case=Acc|Numb=Plur|Gend=MascFem|Deg=Pos
 docet	doceo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 contrarias	contrarius	ADJqua	Case=Acc|Numb=Plur|Gend=Fem|Deg=Pos
 esse	sum1	VER	Mood=Inf|Tense=Pres|Voice=Act
-Euangelio	Euangelium	NOMpro	Case=Dat|Numb=Sing
+Euangelio	euangelium	NOMcom	Case=Dat|Numb=Sing
 ipsi	ipse	PROdem	Case=Dat|Numb=Sing|Gend=Com
 .	.	PUNC	MORPH=empty
 Commendat	commendo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -10206,19 +10202,19 @@ à	ab	PRE	MORPH=empty
 differentia	differentia	NOMcom	Case=Abl|Numb=Sing
 scilicet	scilicet	ADV	Deg=Pos
 quæ	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Fem
-nonest	nones	PROper	Numb=Sing
-{nonest}	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+non	non	ADVneg	MORPH=empty
+est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 de	de	PRE	MORPH=empty
 scriptura	scriptura	NOMcom	Case=Abl|Numb=Sing
 ,	,	PUNC	MORPH=empty
 sed	sed	CONcoo	MORPH=empty
 de	de	PRE	MORPH=empty
 effectu	effectus1	NOMcom	Case=Abl|Numb=Sing
-intelligẽda	intelligedo	VER	Numb=Sing|Gend=Fem
+intelligẽda	intelligo	VER	Case=Abl|Numb=Sing|Gend=Com|Mood=Adj|Voice=Pass
 ,	,	PUNC	MORPH=empty
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
 ab	ab	PRE	MORPH=empty
-authore	author	NOMcom	Case=Abl|Numb=Sing
+authore	auctor	NOMcom	Case=Abl|Numb=Sing
 ,	,	PUNC	MORPH=empty
 quem	qui1	PROrel	Case=Acc|Numb=Sing|Gend=Masc
 vocat	uoco	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -10274,7 +10270,7 @@ igitur	igitur	CONcoo	MORPH=empty
 Euangelium	euangelium	NOMpro	Case=Acc|Numb=Sing
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
 isti	iste	PROdem	Case=Dat|Numb=Sing|Gend=Com
-Matæologiæ	Mataeologia	NOMpro	Case=Dat|Numb=Sing
+Matæologiæ	mataeologia	NOMcom	Case=Dat|Numb=Sing
 ,	,	PUNC	MORPH=empty
 quam	qui1	PROrel	Case=Acc|Numb=Sing|Gend=Fem
 et	et2	CONcoo	Deg=Pos
@@ -10282,7 +10278,7 @@ à	ab	PRE	MORPH=empty
 Lege	lex	NOMcom	Case=Abl|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 ab	ab	PRE	MORPH=empty
-Euangelio	Euangelium	NOMpro	Case=Abl|Numb=Sing
+Euangelio	euangelium	NOMcom	Case=Abl|Numb=Sing
 damnari	damno	VER	Mood=Inf|Tense=Pres|Voice=Pass
 docet	doceo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
@@ -10296,7 +10292,7 @@ se	sui1	PROref	Case=Acc|Numb=Sing
 vtranque	uterque	PROind	Case=Abl
 doctrinam	doctrina	NOMcom	Case=Acc|Numb=Sing
 contra	contra2	PRE	MORPH=empty
-Manichæos	Manichaei	ADJqua	Case=Acc|Numb=Plur|Gend=Masc
+Manichæos	manichaeus	ADJqua	Case=Acc|Numb=Plur|Gend=Masc
 .	.	PUNC	MORPH=empty
 Sanam	sanus	ADJqua	Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos
 quoque	quoque	ADV	Deg=Pos
@@ -10305,16 +10301,14 @@ hãc	hic1	PROdem	Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos
 vocat	uoco	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 quia	quia	CONsub	MORPH=empty
-æd	aed	CONcoo	MORPH=empty
-’	’	PUNC	MORPH=empty
-ficat	fico	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+ædificat	aedifico	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
 ad	ad2	PRE	MORPH=empty
 pietatẽ	pietas	NOMcom	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 Denique	denique	ADV	Deg=Pos
 Deũ	deus	NOMcom	Case=Nom|Numb=Sing
 illius	ille	PROdem	Case=Gen|Numb=Sing|Gend=Com
-authorem	author	NOMcom	Case=Acc|Numb=Sing
+authorem	auctor	NOMcom	Case=Acc|Numb=Sing
 μακάριον	[Greek]	FOR	MORPH=empty
 dicit	dico2	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 et	et2	CONcoo	MORPH=empty
@@ -10338,7 +10332,7 @@ Benedictum	benedico2	VER	Case=Acc|Numb=Sing|Mood=Par|Tense=Perf|Voice=Pass
 alibi	alibi	ADV	Deg=Pos
 vocat	uoco	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 eadẽ	idem	PROdem	Numb=Sing|Gend=Fem
-scriprura	scripruda	NOMcom	Case=Acc|Numb=Sing
+scriptura	scriptura	NOMcom	Case=Nom|Numb=Sing
 Deũ	deus	NOMcom	Case=Nom|Numb=Sing
 id	is	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -10353,7 +10347,7 @@ autem	autem	CONcoo	MORPH=empty
 appellat	appello1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 hoc	hic1	PROdem	Case=Acc|Numb=Sing|Gend=Neut
 idem	idem	PROdem	Case=Acc|Numb=Sing|Gend=Neut
-Euangeliũ	Euangelium	NOMpro	Case=Nom|Numb=Sing
+Euangeliũ	euangelium	NOMcom	Case=Acc|Numb=Sing
 2	2	ADJcar	MORPH=empty
 Timot	Timotheus	NOMcom	Case=Acc|Numb=Sing
 2	2	ADJcar	MORPH=empty
@@ -10377,7 +10371,7 @@ non	non	ADVneg	MORPH=empty
 cuius	quis1	PROrel	Case=Gen|Numb=Sing|Gend=Com
 ipse	ipse	PROdem	Case=Nom|Numb=Sing|Gend=Masc
 sit	sum1	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
-author	author	NOMcom	Case=Nom|Numb=Sing
+author	auctor	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 12	3	ADJcar	MORPH=empty
 Gratiam	gratia	NOMcom	Case=Acc|Numb=Sing
@@ -10427,7 +10421,7 @@ Apostolatus	apostolatus	NOMcom	Case=Nom|Numb=Sing
 quem	qui1	PROrel	Case=Acc|Numb=Sing|Gend=Masc
 tuetur	tueor	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
 et	et2	CONcoo	MORPH=empty
-commẽdat	commedo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+commẽdat	commendo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 hoc	hic1	PROdem	Case=Abl|Numb=Sing|Gend=MascNeut
 loco	locus	NOMcom	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -10497,7 +10491,7 @@ Epist	epistola	NOMpro	MORPH=empty
 {Epist}	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 ad	ad2	PRE	MORPH=empty
-Galat	Galat	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Galat	Galatae	NOMpro	Case=Acc|Numb=Plur
 .	.	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 hîc	hic1	PROdem	Case=Nom|Numb=Sing|Gend=Masc
@@ -10511,7 +10505,7 @@ cur	cur	ADVint	MORPH=empty
 suum	suus	PROpos.ref	Case=Acc|Numb=Sing|Gend=MascNeut
 Apostolatum	apostolatus	NOMpro	Case=Acc|Numb=Sing
 Paulus	Paulus	NOMpro	Case=Nom|Numb=Sing
-cõmendet	comendo	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
+cõmendet	commendo	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
@@ -10526,7 +10520,7 @@ difficile	difficilis	ADJqua	Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos
 certamen	certamen	NOMcom	Case=Acc|Numb=Sing
 suscipiendum	suscipio	VER	Case=Acc|Numb=Sing|Gend=MascNeut|Mood=Adj|Voice=Pass
 ,	,	PUNC	MORPH=empty
-seipsum	seipio	NOMcom	Case=Acc|Numb=Sing
+seipsum	seipsum	PROdem	Case=Acc|Numb=Sing
 in	in	PRE	MORPH=empty
 exemplum	exemplum	NOMcom	Case=Acc|Numb=Sing
 proponeret	propono	VER	Numb=Sing|Mood=Sub|Tense=Impa|Voice=Act|Person=3
@@ -10557,7 +10551,7 @@ verò	uero3	ADV	Deg=Pos
 totum	totus	PROind	Case=Acc|Numb=Sing|Gend=Neut
 suum	suus	PROpos.ref	Case=Acc|Numb=Sing|Gend=MascNeut
 ministerium	ministerium	NOMcom	Case=Acc|Numb=Sing
-asserit	assero?	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+asserit	assero2	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 Paulus	Paulus	NOMpro	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 vt	ut4	CONsub	MORPH=empty
@@ -10582,14 +10576,13 @@ præparationibus	praeparatio	NOMcom	Case=Dat|Numb=Plur
 .	.	PUNC	MORPH=empty
 Hoc	hic1	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 significat	significo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Gartiam	Gartia	NOMpro	Case=Acc|Numb=Sing
+gratiam	gratia	NOMcom	Case=Acc|Numb=Sing
 habeo	habeo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
 ,	,	PUNC	MORPH=empty
 Gratiæ	gratia	NOMcom	Case=Gen|Numb=Sing
 enim	enim2	CONcoo	MORPH=empty
 aguntur	ago	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
-bene	bene	ADV	Deg=Pos
-ficiorum	ficius	NOMcom	Case=Gen|Numb=Plur
+beneficiorum	beneficium	NOMcom	Case=Gen|Numb=Plur
 nomine	nomen	NOMcom	Case=Abl|Numb=Sing
 acceptorum	acceptum	NOMcom	Case=Gen|Numb=Plur|Mood=Par|Tense=Perf|Voice=Pass
 :	:	PUNC	MORPH=empty
@@ -10619,7 +10612,7 @@ et	et2	CONcoo	MORPH=empty
 virtus	uirtus	NOMcom	Case=Nom|Numb=Sing
 conferens	confero	VER	Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Pres|Voice=Act
 dona	donum	NOMcom	Case=Acc|Numb=Plur
-falutaria	falutaris	ADJqua	Case=Acc|Numb=Sing|Gend=Neut|Deg=Pos
+salutaria	salutaris	ADJqua	Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos
 et	et2	CONcoo	MORPH=empty
 nobis	nos	PROper	Case=Dat|Numb=Plur
 necessaria	necessarius2	ADJqua	Case=Acc|Numb=Plur|Gend=Neut|Deg=Pos
@@ -10677,10 +10670,10 @@ Ergo	ergo2	CONcoo	MORPH=empty
 prorsus	prorsus2	ADV	Deg=Pos
 extenuat	extenuo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 et	et2	CONcoo	MORPH=empty
-deiicit	deiico	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+deiicit	deicio	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 vires	uis	NOMcom	Case=Acc|Numb=Plur
 suas	suus	PROpos.ref	Case=Acc|Numb=Plur|Gend=Fem
-Paul.	paul	NOMpro	Case=Nom|Numb=Sing
+Paul.	Paulus	NOMpro	Case=Nom|Numb=Sing
 quas	qui1	PROrel	Case=Acc|Numb=Plur|Gend=Fem
 se	sui1	PROref	Case=Acc|Numb=Sing
 ab	ab	PRE	MORPH=empty
@@ -10757,10 +10750,10 @@ illud	ille	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 Leonis	leo	NOMcom	Case=Gen|Numb=Sing
 x	as	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
-Pontif	pontifer	VER	Case=Gen|Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act
-Rom	Rom	NOMpro	Case=Acc|Numb=Sing
+Pontif	pontifex	NOMcom	Case=Gen|Numb=Sing
+Rom	Romanus	ADJqua	Case=Acc|Numb=Sing|Gend=Com
 .	.	PUNC	MORPH=empty
-blasphemum	blasphemo	NOMcom	Numb=Sing
+blasphemum	blasphemum	NOMcom	Case=Acc|Numb=Sing
 vsurpare	usurpo	VER	Mood=Inf|Tense=Pres|Voice=Act
 ,	,	PUNC	MORPH=empty
 nos	nos	PROper	Case=Acc|Numb=Plur
@@ -10802,7 +10795,7 @@ I	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
 quia	quia	CONsub	MORPH=empty
 erat	sum1	VER	Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-blasphemꝰ	blasphes	NOMcom	Case=Acc
+blasphemus	blasphemum	NOMcom	Case=Nom|Numb=Sing
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
 quia	quia	CONsub	MORPH=empty
@@ -10841,7 +10834,7 @@ à	ab	PRE	MORPH=empty
 Deo	deus	NOMcom	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 Et	et2	CONcoo	MORPH=empty
-seipsum	seipio	NOMcom	Case=Acc|Numb=Sing
+seipsum	seipsum	PROdem	Case=Acc|Numb=Sing
 superiorémque	superus	ADJqua	Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp
 {superiorémque}	que	CON	MORPH=empty
 sententiam	sententia	NOMcom	Case=Acc|Numb=Sing
@@ -10871,9 +10864,9 @@ vocatus	uoco	VER	Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass
 Qui	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Masc
 prius	prius	ADJadv.ord	Deg=Comp
 eram	sum1	VER	Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=1
-blasphemus	blasphemo	VER	Numb=Plur|Person=1
+blasphemus	blasphemus	ADJqua	Case=Nom|Numb=Sing|Gend=Com|Deg=Pos
 et	et2	CONcoo	MORPH=empty
-persequutor	persequutor	VER	Case=Nom|Numb=Sing
+persequutor	persecutor	NOMcom	Case=Nom|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 iniuriosus	iniuriosus	ADJqua	Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos
 :	:	PUNC	MORPH=empty
@@ -10911,13 +10904,13 @@ arripiebant	arripio	VER	Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
 transfert	transfero	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 in	in	PRE	MORPH=empty
 suum	suus	PROpos.ref	Case=Acc|Numb=Sing|Gend=MascNeut
-cõmodum	comodus	NOMcom	Case=Acc
+cõmodum	commodum1	NOMcom	Case=Acc|Numb=Sing
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 sui	sui2	PROpos.ref	Case=Gen|Numb=Sing|Gend=MascNeut
 ministerij	ministerium	NOMcom	Case=Gen|Numb=Sing
 maiorem	magnus	ADJqua	Case=Acc|Numb=Sing|Gend=MascFem|Deg=Comp
-commẽdationem	commedatio	NOMcom	Case=Acc|Numb=Sing
+commẽdationem	commendatio	NOMcom	Case=Acc|Numb=Sing
 .	.	PUNC	MORPH=empty
 Accusabant	accuso	VER	Numb=Plur|Mood=Ind|Tense=Impa|Voice=Act|Person=3
 igitur	igitur	CONcoo	MORPH=empty
@@ -10926,8 +10919,8 @@ fuisset	sum1	VER	Numb=Sing|Mood=Sub|Tense=Pqp|Voice=Act|Person=3
 Paulus	Paulus	NOMpro	Case=Nom|Numb=Sing
 antea	antea	ADV	Deg=Pos
 (	(	PUNC	MORPH=empty
-Blasphemus	Blasphomus	NOMpro	Case=Nom|Numb=Sing
-Insectator	insectator	NOMcom	Case=Nom|Numb=Sing|Mood=Imp|Tense=Fut|Voice=Dep
+Blasphemus	blasphemus	ADJqua	Case=Nom|Numb=Sing|Gend=Com|Deg=Pos
+Insectator	insectator	NOMcom	Case=Nom|Numb=Sing
 (	(	PUNC	MORPH=empty
 Violentus	uiolentus	ADJqua	Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos
 Quæ	qui1	PROrel	Case=Acc|Numb=Plur|Gend=Neut
@@ -10957,7 +10950,7 @@ apparet	appareo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 Cùm	cum3	CONsub	MORPH=empty
 enim	enim2	CONcoo	MORPH=empty
 talis	talis	PROdem	Case=Nom|Numb=Sing|Gend=MascFem
-fucrit	fucrio	VER	Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
+fuerit	sum1	VER	Numb=Sing|Mood=Sub|Tense=Perf|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 mirum	mirus	ADJqua	Case=Nom|Numb=Sing|Gend=Neut|Deg=Pos
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -11004,7 +10997,7 @@ solitus	soleo	VER	Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=SemDep
 Deo	deus	NOMcom	Case=Dat|Numb=Sing
 .	.	PUNC	MORPH=empty
 Deinde	deinde	ADV	Deg=Pos
-persequutor	persequutor	VER	Numb=Sing|Mood=Imp|Tense=Fut|Voice=Dep
+persequutor	persecutor	NOMcom	Numb=Sing|Mood=Imp|Tense=Fut|Voice=Dep
 .	.	PUNC	MORPH=empty
 Denique	denique	ADV	Deg=Pos
 rabiosus	rabiosus	ADJqua	Case=Nom|Numb=Sing|Gend=Masc|Deg=Pos
@@ -11034,7 +11027,7 @@ desperandum	despero	VER	Case=Nom|Numb=Sing|Gend=Neut|Mood=Adj|Voice=Pass
 Opponit	oppono	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 autem	autem	CONcoo	MORPH=empty
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
-mifericordiam	mifericordia	NOMcom	Case=Acc|Numb=Sing
+misericordiam	misericordia	NOMcom	Case=Acc|Numb=Sing
 ,	,	PUNC	MORPH=empty
 per	per	PRE	MORPH=empty
 quam	qui1	PROrel	Case=Acc|Numb=Sing|Gend=Fem
@@ -11119,7 +11112,7 @@ antea	antea	ADV	Deg=Pos
 audiisse	audio	VER	Mood=Inf|Tense=Perf|Voice=Act
 vel	uel2	CONcoo	Deg=Pos
 fuisse	sum1	VER	Mood=Inf|Tense=Perf|Voice=Act
-edoctũ	edoctus	NOMcom	Case=Abl|Numb=Sing
+edoctũ	edoceo	VER	Case=Nom|Numb=Sing|Gend=Com|Mood=Par|Tense=Perf|Voice=Pass
 negat	nego	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 Hîc	hic1	PROdem	Numb=Sing
@@ -11132,7 +11125,7 @@ ignorantiæ	ignorantia	NOMcom	Case=Gen|Numb=Sing
 quæ	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Fem
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 maximè	magis2	ADV	Deg=Sup
-excusabilis	excusabilis	ADJqua	Case=Nom|Numb=Sing|Gend=MascFem|Deg=Pos
+excusabilis	excusabilis	ADJqua	Case=Nom|Numb=Plur|Gend=Com|Deg=Pos
 ,	,	PUNC	MORPH=empty
 quum	cum3	ADVrel	Case=Acc|Numb=Sing
 quis	quis2	PROind	Case=Nom|Numb=Sing|Gend=MascFem
@@ -11249,7 +11242,7 @@ toto	totum	NOMcom	Case=Abl|Numb=Sing
 sed	sed	CONcoo	MORPH=empty
 à	ab	PRE	MORPH=empty
 tanto	tantus	PROdem	Case=Abl|Numb=Sing
-Rom	Romani	NOMpro	Case=Nom|Numb=Plur
+Rom	Romani	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -11278,15 +11271,14 @@ ducitur	duco	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
 .	.	PUNC	MORPH=empty
 vt	ut1	ADVrel	MORPH=empty
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Mat	matis	ADV	Numb=Sing|Deg=Pos|Person=3
-th	tribunus	INJ	Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 i5	is	PROdem	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 apparet	appareo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
-Genes	genes	NOMcom	Case=Nom|Numb=Plur
+Genes	Genesis2	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 2o	20	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -11346,7 +11338,7 @@ superioris	superus	ADJqua	Case=Gen|Numb=Sing|Gend=Com|Deg=Comp
 vitæ	uita	NOMcom	Case=Gen|Numb=Sing
 labes	labes	NOMcom	Case=Nom|Numb=Sing
 deleta	deleo	VER	Case=Nom|Numb=Sing|Gend=Fem|Mood=Par|Tense=Perf|Voice=Pass
-esie	esies	PROdem	Numb=Sing
+esse	sum1	VER	Mood=Inf|Tense=Pres|Voice=Act
 doceatur	doceo	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Pass|Person=3
 .	.	PUNC	MORPH=empty
 Probat	probo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -11372,7 +11364,7 @@ priori	prior	ADJord	Case=Dat|Numb=Sing|Gend=Com|Deg=Comp
 :	:	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 ex	ex	PRE	MORPH=empty
-Charitate	charitas	NOMcom	Case=Abl|Numb=Sing
+Charitate	caritas	NOMcom	Case=Abl|Numb=Sing
 in	in	PRE	MORPH=empty
 Christo	Christus	NOMpro	Case=Abl|Numb=Sing
 ,	,	PUNC	MORPH=empty
@@ -11506,7 +11498,7 @@ misericordiam	misericordia	NOMcom	Case=Acc|Numb=Sing
 confert	confero	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 Demũ	demum	ADV	Numb=Plur|Person=1
-cæteros	caeter	NOMcom	Case=Acc|Numb=Plur
+cæteros	ceteri	NOMcom	Case=Acc|Numb=Plur
 suo	suus	PROpos.ref	Case=Abl|Numb=Sing|Gend=MascNeut
 exemplo	exemplum	NOMcom	Case=Abl|Numb=Sing
 consolatur	consolor	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Dep|Person=3
@@ -11543,14 +11535,14 @@ etiã	etiam	ADV	Case=Nom|Numb=Plur|Deg=Pos
 sceleratissimos	sceleratus	ADJqua	Case=Acc|Numb=Plur|Gend=Masc|Deg=Sup
 .	.	PUNC	MORPH=empty
 Quod	quis1	PROrel	Case=Nom|Numb=Sing|Gend=Neut
-sundamẽtum	sundametum	NOMcom	Case=Nom|Numb=Sing
+fundamẽtum	fundamentum	NOMcom	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 quia	quia	CONsub	MORPH=empty
 magni	magnus	ADJqua	Case=Gen|Numb=Sing|Gend=MascNeut|Deg=Pos
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 momenti	momentum	NOMcom	Case=Gen|Numb=Sing
 ,	,	PUNC	MORPH=empty
-cõmendat	comendo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+cõmendat	commendo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 solita	solitus	ADJqua	Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos
 præfatione	praefatio	NOMcom	Case=Abl|Numb=Sing
 ,	,	PUNC	MORPH=empty
@@ -11563,7 +11555,8 @@ infr	infra2	NOMcom	Deg=Pos
 .	.	PUNC	MORPH=empty
 cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
-3v	3u	ADJcar	Case=Nom|Numb=Sing
+3	3	ADJcar	Case=Nom|Numb=Sing
+v	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -11573,7 +11566,7 @@ Timoth	Timotheus	NOMpro	Case=Acc|Numb=Sing
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 19	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -11626,7 +11619,7 @@ cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 16	16	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -11913,7 +11906,7 @@ natura	natura	NOMcom	Case=Nom|Numb=Sing
 illius	ille	PROdem	Case=Gen|Numb=Sing|Gend=Com
 hostis	hostis	NOMcom	Case=Nom|Numb=Sing
 et	et2	CONcoo	MORPH=empty
-persequutor	persequutor	NOMcom	Case=Nom|Numb=Sing
+persequutor	persecutor	NOMcom	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 si	si2	CONsub	MORPH=empty
 votũ	uotum	NOMcom	Case=Abl|Numb=Sing
@@ -12183,7 +12176,7 @@ beneficia	beneficium	NOMcom	Case=Acc|Numb=Plur
 confert	confero	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-Euãgelium	Euagelius	NOMpro	Case=Acc|Numb=Sing
+Euãgelium	euangelium	NOMcom	Case=Acc|Numb=Sing
 suum	suus	PROpos.ref	Case=Acc|Numb=Sing|Gend=MascNeut
 prouehit	proueho	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
@@ -12286,7 +12279,7 @@ Romanor	Romani	NOMpro	Case=Nom|Numb=Sing|Person=1
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2o	20	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -12327,7 +12320,7 @@ Tit	Titus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 et	et2	CONcoo	MORPH=empty
@@ -13232,7 +13225,7 @@ Ecclesia	ecclesia	NOMcom	Case=Abl|Numb=Sing
 :	:	PUNC	MORPH=empty
 imprimis	imprimis	ADV	Deg=Pos
 autem	autem	CONcoo	MORPH=empty
-Euangeliũ	euangelium	NOMpro	Case=Nom|Numb=Sing
+Euangeliũ	euangelium	NOMcom	Case=Nom|Numb=Sing
 significat	significo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 ,	,	PUNC	MORPH=empty
 quæ	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Fem
@@ -13773,7 +13766,7 @@ Exod	exod	ADV	MORPH=empty
 .	.	PUNC	MORPH=empty
 15	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 5	5	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -14121,7 +14114,7 @@ Tim	tim	PROper	Numb=Sing|Deg=Pos
 .	.	PUNC	MORPH=empty
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 17	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -14149,7 +14142,7 @@ Act	ac1	CONcoo	MORPH=empty
 .	.	PUNC	MORPH=empty
 19	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 13	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -15112,7 +15105,7 @@ Petite	peto	VER	Numb=Plur|Mood=Imp|Tense=Pres|Voice=Act|Person=2
 et	et2	CONcoo	MORPH=empty
 inuenietis	inuenio	VER	Numb=Plur|Mood=Ind|Tense=Fut|Voice=Act|Person=2
 ,	,	PUNC	MORPH=empty
-Matth	Matha	NOMpro	Case=Ind|Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 7	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -16507,7 +16500,7 @@ Apocryphus	apocryphus	NOMpro	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 excusationem	excusatio	NOMcom	Case=Acc|Numb=Sing
-authoris	author	NOMcom	Case=Gen|Numb=Sing
+authoris	auctor	NOMcom	Case=Gen|Numb=Sing
 longe	longe	ADV	Deg=Pos
 à	ab	PRE	MORPH=empty
 Canonicis	Canonicus	ADJqua	Case=Abl|Numb=Plur|Gend=Com|Deg=Pos
@@ -17126,7 +17119,7 @@ summus	superus	ADJqua	Case=Nom|Numb=Sing|Gend=Masc|Deg=Sup
 ,	,	PUNC	MORPH=empty
 qui	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Masc
 erat	sum1	VER	Numb=Sing|Mood=Ind|Tense=Impa|Voice=Act|Person=3
-Romanor	Romani	NOMpro	Case=Gen|Numb=Plur
+Romanor	Romani	NOMcom	Case=Gen|Numb=Plur
 .	.	PUNC	MORPH=empty
 Imperator	imperator	NOMcom	Case=Nom|Numb=Sing
 ,	,	PUNC	MORPH=empty
@@ -17483,7 +17476,7 @@ vt	ut4	CONsub	MORPH=empty
 docet	doceo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 idem	idem	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 Paulus	Paulus	NOMpro	Case=Nom|Numb=Sing
-Rom	Romani	NOMpro	Case=Nom|Numb=Plur
+Rom	Romani	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 13	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -18210,7 +18203,7 @@ homines	homo	NOMcom	Case=Nom|Numb=Plur
 ,	,	PUNC	MORPH=empty
 etc	et2	CONcoo	Deg=Pos
 .	.	PUNC	MORPH=empty
-Respon	respono	VER	Numb=Sing
+Respon	responsa	NOMcom	Case=Acc|Numb=Sing|Gend=Fem
 .	.	PUNC	MORPH=empty
 Explicari	explico	VER	Mood=Inf|Tense=Pres|Voice=Pass
 hac	hic1	PROdem	Case=Abl|Numb=Sing|Gend=Fem
@@ -18287,7 +18280,7 @@ Malac	malachus	ADV	Case=Ind|Deg=Pos
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 11	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -18344,7 +18337,7 @@ Isai	Isai	NOMpro	Case=Nom|Numb=Plur|Gend=Masc
 .	.	PUNC	MORPH=empty
 32	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -18432,7 +18425,7 @@ à	ab	PRE	MORPH=empty
 natura	natura	NOMcom	Case=Abl|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 definitione	definitio	NOMcom	Case=Abl|Numb=Sing
-Euangelii	Euangelium	NOMpro	Case=Gen|Numb=Sing
+Euangelii	euangelium	NOMcom	Case=Gen|Numb=Sing
 idẽ	idem	PROdem	Case=Nom|Numb=Sing|Gend=Neut
 probari	probo	VER	Mood=Inf|Tense=Pres|Voice=Pass
 potest	possum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
@@ -18687,7 +18680,7 @@ putet	puto	VER	Numb=Sing|Mood=Sub|Tense=Pres|Voice=Act|Person=3
 contempto	contemptus?	VER	Case=Dat|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass
 spretóque	sperno	VER	Case=Abl|Numb=Sing|Gend=MascNeut|Mood=Par|Tense=Perf|Voice=Pass
 {spretóque}	que	CON	MORPH=empty
-Euangelio	euangelium	NOMpro	Case=Dat|Numb=Sing
+Euangelio	euangelium	NOMcom	Case=Dat|Numb=Sing
 salutem	salus	NOMcom	Case=Acc|Numb=Sing
 æternam	aeternus	ADJqua	Case=Acc|Numb=Sing|Gend=Fem|Deg=Pos
 consequi	consequor	VER	Mood=Inf|Tense=Pres|Voice=Dep
@@ -19004,12 +18997,12 @@ credunt	credo	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 vel	uel2	CONcoo	MORPH=empty
 credituri	credo	VER	Case=Nom|Numb=Plur|Gend=Masc|Mood=Par|Tense=Fut|Voice=Act
 sunt	sum1	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Euangelio	euangelium	NOMpro	Case=Dat|Numb=Sing
+Euangelio	euangelium	NOMcom	Case=Dat|Numb=Sing
 .	.	PUNC	MORPH=empty
 Consir	consiro	NOMpro	Case=Nom|Numb=Sing|Person=1
 matur	matur	ADJqua	Numb=Sing|Deg=Pos
 ex	ex	PRE	MORPH=empty
-Matth	Matha	NOMpro	Case=Ind|Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 14	3	ADJcar	MORPH=empty
 vers	uersus1	NOMcom	Case=Nom|Numb=Plur
@@ -19105,7 +19098,7 @@ aliquos	aliquis	PROind	Case=Acc|Numb=Plur|Gend=Masc
 ad	ad2	PRE	MORPH=empty
 se	sui1	PROref	Case=Acc|Numb=Sing
 per	per	PRE	MORPH=empty
-Euangeliũ	euangelium	NOMpro	Case=Acc|Numb=Sing
+Euangeliũ	euangelium	NOMcom	Case=Acc|Numb=Sing
 vocat	uoco	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
 Itaq	ita	ADV	Deg=Pos
@@ -19194,7 +19187,7 @@ Thess	Thess	NOMpro	Numb=Sing
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -19222,7 +19215,7 @@ lib	liber1	NOMcom	Case=Abl|Numb=Sing
 oprimus	oprimus	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=1
 Græcæ	Graecus	ADJqua	Case=Gen|Numb=Sing|Gend=Fem|Deg=Pos
 linguæ	lingua	NOMcom	Case=Gen|Numb=Sing
-author	author	NOMcom	Case=Nom|Numb=Sing
+author	auctor	NOMcom	Case=Nom|Numb=Sing
 et	et2	CONcoo	MORPH=empty
 interpres	interpres	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -19489,14 +19482,14 @@ benedicendæ	benedico2	VER	Case=Nom|Numb=Plur|Gend=Fem|Mood=Adj|Voice=Pass
 omnes	omnis	PROind	Case=Nom|Numb=Plur|Gend=MascFem
 mundi	mundus1	NOMcom	Case=Nom|Numb=Plur
 nationes	natio1	NOMcom	Case=Nom|Numb=Plur
-Genes	genes	NOMcom	Case=Nom|Numb=Plur
+Genes	Genesis2	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 15	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
 17	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-Galat	Galat	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Galat	Galatae	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -19586,7 +19579,7 @@ in	in	PRE	MORPH=empty
 quo	qui1	PROrel	Case=Abl|Numb=Sing|Gend=MascNeut
 mihi	ego	PROper	Case=Dat|Numb=Sing
 complacui	complaceo	VER	Numb=Sing|Gend=Masc|Mood=Ind|Tense=Perf|Voice=Act|Person=1
-Matth	Matha	NOMpro	Case=Ind|Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -19799,7 +19792,7 @@ Tertia	tertius	ADJord	Case=Nom|Numb=Sing|Gend=Fem|Deg=Pos
 Obiicitur	obicio	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
 ,	,	PUNC	MORPH=empty
 locus	locus	NOMcom	Case=Nom|Numb=Sing
-Galat	Galat	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Galat	Galatae	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -20547,7 +20540,7 @@ peccatis	peccatum	NOMcom	Case=Abl|Numb=Plur
 noitris	noiter	NOMcom	Case=Abl|Numb=Plur
 ,	,	PUNC	MORPH=empty
 quàm	quam1	ADVrel	MORPH=empty
-seipsum	seipio	NOMcom	Case=Acc|Numb=Sing
+seipsum	seipsum	PROdem	Case=Acc|Numb=Sing
 dedit	do	VER	Numb=Sing|Mood=Ind|Tense=Perf|Voice=Act|Person=3
 :	:	PUNC	MORPH=empty
 neque	neque	CONcoo	MORPH=empty
@@ -20582,7 +20575,7 @@ locus	locus	NOMcom	Case=Nom|Numb=Sing
 Tit	Titus	NOMpro	Case=Ind
 2	2	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 14	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -21419,7 +21412,7 @@ Actor	Actor	NOMcom	Case=Nom|Numb=Sing
 13	3	ADJcar	MORPH=empty
 ,	,	PUNC	MORPH=empty
 et	et2	CONcoo	MORPH=empty
-Galat	Galat	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Galat	Galatae	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 1	1	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -21674,7 +21667,7 @@ qui	qui1	PROrel	Case=Nom|Numb=Sing|Gend=Masc
 in	in	PRE	MORPH=empty
 Ecclesia	ecclesia	NOMcom	Case=Abl|Numb=Sing
 Dei	deus	NOMcom	Case=Gen|Numb=Sing
-legitimè	legitime	ADV	Deg=Pos
+legitimè	legitime	ADV	MORPH=empty
 vocatus	uoco	VER	Case=Nom|Numb=Sing|Gend=Masc|Mood=Par|Tense=Perf|Voice=Pass
 docet	doceo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 fidem	fides2	NOMcom	Case=Acc|Numb=Sing
@@ -21926,7 +21919,7 @@ vacua	uacuus	ADJqua	Case=Abl|Numb=Sing|Gend=Fem|Deg=Pos
 ,	,	PUNC	MORPH=empty
 vt	ut1	ADVrel	MORPH=empty
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Matth	Matha	NOMpro	Case=Ind|Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 6	6	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -22102,7 +22095,7 @@ Mar	Mar	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 7	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-V	5	ADJcar	MORPH=empty
+V	uersiculus	NOMcom	MORPH=empty
 .	.	PUNC	MORPH=empty
 4	4	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -22937,7 +22930,7 @@ Chri	Chris	NOMpro	Case=Gen|Numb=Sing
 stus	stus	NOMcom	Case=Nom|Numb=Sing
 ipse	ipse	PROdem	Case=Nom|Numb=Sing|Gend=Masc
 apparet	appareo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Matth	Matha	NOMpro	Case=Ind|Numb=Sing
+Matth	Matthaeus	NOMpro	Case=Abl|Numb=Sing
 .	.	PUNC	MORPH=empty
 23	23	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -22963,7 +22956,7 @@ et	et2	CONcoo	MORPH=empty
 ancillæ	ancilla	NOMcom	Case=Dat|Numb=Sing
 confert	confero	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 .	.	PUNC	MORPH=empty
-Galat	Galat	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
+Galat	Galatae	NOMpro	Case=Abl|Numb=Plur
 .	.	PUNC	MORPH=empty
 4	4	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
@@ -25408,7 +25401,7 @@ cap	capitulum	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 24	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
-Genes	genes	NOMcom	Case=Nom|Numb=Plur
+Genes	Genesis2	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 vers	uersus1	NOMcom	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -25758,7 +25751,7 @@ sunt	sum1	VER	Numb=Plur|Mood=Ind|Tense=Pres|Voice=Act|Person=3
 et	et2	CONcoo	MORPH=empty
 constituta	constituo	VER	Case=Nom|Numb=Plur|Gend=Neut|Mood=Par|Tense=Perf|Voice=Pass
 ,	,	PUNC	MORPH=empty
-Monachorum	Monachi	NOMpro	Case=Gen|Numb=Plur
+Monachorum	monachus	NOMcom	Case=Gen|Numb=Plur
 cœnobia	coenobia	NOMcom	Case=Nom|Numb=Plur
 erecta	erigo	VER	Case=Nom|Numb=Plur|Gend=Neut
 ,	,	PUNC	MORPH=empty
@@ -26661,7 +26654,7 @@ viris	uir	NOMcom	Case=Acc|Numb=Plur
 quod	quod2	CONsub	Numb=Sing
 Licinij	Licinius	NOMpro	Case=Gen|Numb=Sing
 imperatoris	imperator	NOMcom	Case=Gen|Numb=Sing
-Rom	Romani	NOMpro	Case=Nom|Numb=Plur
+Rom	Romanus	ADJqua	Case=Gen|Numb=Sing|Gend=Com
 .	.	PUNC	MORPH=empty
 edicto	edictum	NOMcom	Case=Abl|Numb=Sing
 ,	,	PUNC	MORPH=empty
@@ -27920,7 +27913,7 @@ die	dies	NOMcom	Case=Abl|Numb=Sing
 vt	ut4	CONsub	MORPH=empty
 docetur	doceo	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Pass|Person=3
 tum	tum	ADV	Deg=Pos
-Genes	genes	NOMcom	Case=Nom|Numb=Plur
+Genes	Genesis2	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 cap	capitulum	NOMcom	Numb=Sing
 .	.	PUNC	MORPH=empty
@@ -28170,7 +28163,7 @@ potestati	potestas	NOMcom	Case=Dat|Numb=Sing
 ,	,	PUNC	MORPH=empty
 vt	ut1	ADVrel	MORPH=empty
 est	sum1	VER	Numb=Sing|Mood=Ind|Tense=Pres|Voice=Act|Person=3
-Genes	genes	NOMcom	Case=Nom|Numb=Plur
+Genes	Genesis2	NOMpro	Case=Nom|Numb=Sing
 .	.	PUNC	MORPH=empty
 3	3	ADJcar	MORPH=empty
 .	.	PUNC	MORPH=empty
