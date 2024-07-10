@@ -90,7 +90,7 @@ id, token,	lemma,	pos, varia,
 5151, 	Chrysosto, 	Chrysostomus, 	NOMpro, lat chr.
 5205, 	epigraphỹ, 	epigraphium, 	NOMcom, lat. méd.
 5331, 	impostorũ, 	impostor, 	NOMcom, lat p.c.
-5596, 	fictitius, 	fictitius, ADJqua, lat. technique
+5596, 	fictitius, 	ficticius, ADJqua, lat. technique
 5882, 	stylum, 	stylus, 	NOMcom, lat med. 
 5943, 	acceptatio, 	acceptatio, 	NOMcom, lat. chr.
 6415, 	Papali, papalis, ADJqua, lat. med.
@@ -151,3 +151,11 @@ id, token,	lemma,	pos, varia,
 11280, 	Genes, 	Genesis2, 	NOMpro, lat tard, livre bilbique : 2 est ajouter pour différencier de genesis la création
 11991, 	Epiphonema, 	Epiphonema, 	NOMpro, lat tech, 
 12084, 	immutabilitatis, 	immutabilitas, 	NOMcom 	, lat class. ,
+12350, 	durationem, 	duratio, 	NOMcom, lat. chr.,
+13107, 	dispunctio, 	dispunctio, 	NOMcom, lat tard.,
+13158, 	Regressio, 	regressio, 	NOMcom, lat. tard.
+13175, 	miraculosa, 	miraculosus, 	ADJqua, lat med. 	
+13387, 	acceptator, 	acceptator, 	NOMcom, lat. chr. 
+13418, 	Papatu, 	papatus, 	NOMcom, lat moderne
+13863, 	bombarda, 	bombarda, 	NOMcom, lat med.
+13906, 	desertione, 	desertio, 	NOMcom, lat. tard.
