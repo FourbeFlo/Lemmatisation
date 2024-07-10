@@ -43,7 +43,7 @@ les dates moments de l'année
 4249 	Cal 	kalendae 	NOMcom 	Case=Nom|Numb=Plur 	. Geneuę {Geneuę} Cal . Augusti Anno 
 Abréviation encore 
 même chose pour pag =pagina
-vers = versus : la morphologie ? Acc/Nom?
+vers = versiculus : la morphologie ? Acc/Nom?
 
 5030 	vers 	uersus1 	NOMcom 	Case=Nom|Numb=Sing 	. hoc ipso vers . 3 . 
 
@@ -105,6 +105,7 @@ Epist; epistola
 v; versiculus 
 V; versiculus
 versic; uersiculus //verset
+quæst : quaestio 
 
 
 ****************
@@ -118,6 +119,13 @@ pour rendre les mots corriger visible en txt : *mot* on peut les retrouver facil
 Abreviation : 
 
 Respon. =Responsa 
+
+* je pense créer un POS pour les abreuiation
+@abr.persnam : abréviation des nom de personne
+@abr.bib : abréviation des livres bibliques
+@abr.tech : abréviation dite technique : verset papal etc...
+=> la morphologie si elle n'est pas évident est indiquée comme vide. 
+
 
 Les faute d'impression, rare mais existance, ne doivent pas être corrigée dans l'ocr, car elle contribue à l'amélioration du modèle. Il faut en revanche les corriger pour l'édition du texte.
 exemple : 2012936.png
