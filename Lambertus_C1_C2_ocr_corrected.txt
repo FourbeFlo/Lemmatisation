@@ -660,12 +660,14 @@ Transitio est ad alteram Euãgelici muneris partem, quæ est publicarum precum 
 Quæ disputatio commodè subiicitur tum ad susceptum argumentum, quia pastorem Ecclesiæ de omnibus sui muneris partibus Paulus informat:tum etiam ad superiorem conclusionem, quia hoc ipsum est optimum pietatis Christianę exercitium, et veræ fidei conseruandæ modus tutissimus.
 Precibus enim impetramus à Deo, vt in sana ipsius doctrina et metu pergamus confirmemur, et crescamus.
 Hoc autem loco et capite Paulus breuiter complexus est, quæcunque de oratione siue precibus Christianorum quæri possunt.
-I Quæ sit, et quot eius genera. 2 A quibus sint preces fundendæ. 3 Pro quibus 4 Vbi siue quo in loco. 5 Quando. 6 Quomodo et qua cum animi reuerentia, et totius cœtus decoro: quæ singula suis locis à nobis (Domino dante) explicabuntur.
+I Quæ sit, et quot eius genera. 2 A quibus sint preces fundendæ. 3 Pro quibus 4 Vbi siue quo in loco. 5 Quando. 6 Quomodo et qua cum animi reuerentia, et totius cœtus decoro: quæ singula suis locis à nobis (Domino dante)
+#2012951.png#
+explicabuntur.
 Loquitur autem imprimis Paulus de publicis Ecclesiæ precibus, nõ de singulorum Christianorum priuatis precationibus, quæ fiunt à quoque domi et in conclaui.
 Nec enim has in domibus singulorum fidelium pastores facere debent: vel sufficiunt.
 Sed primo loco quæsitum est.
 Quot sint pastoralis curæ et muneris partes, vt intelligatur quàm rectè et ordine omnia persequatur Paulus Respondẽt Canonistæ esse tres.
-Astaria siue basilicas totas consecrare: virginibus benedicere: Ecclesiasticos ordines distribuere, vt diximus supra ex canon.
+*Altaria* siue basilicas totas consecrare: virginibus benedicere: Ecclesiasticos ordines distribuere, vt diximus supra ex canon.
 Perlectis S Ad Episcopum Distinct. 25.
 Hæc Euangelici ministerij definitio prorsus inepta est, et vana, cùm nihil huic simile doceat scriptura.
 Quare illi ipsi se reuocant, et alibi corrigunt, et melius sapiunt tota distinct. 85.
@@ -674,6 +676,7 @@ Priora duo reipsa pars sunt pastoralis muneris: tertium et postremum non item, s
 Paulus in Epist. ad Titum 1.vers.9. inf. cap.4. vers. 11. 2 Timoth.4. vers. 2. ait, ministerium Euangelicum positum esse in eo, vt pastores doceant sanam doctrinam, refutent falsam, denuntient et corripiant siue increpent aberrantes in Ecclesia.
 Hîc autem addit etiam ad eosdem pastores pertinere, vt ipsi precẽtur publicè pro tota Ecclesia, et præcipuis illius membris.
 Ratio est, I. quia, vt ait Chrysostom.
+#2012952.png#
 Pastor est velut communis totius cœtus pater, qui omnium curam gerit.2.
 Quia est publicũ totius Ecclesię os, vt nos in doctrina, et iis quę huic connexa sunt, erudiat, qualis est oratio.
 Ergo et precari debet, quia eo precãte tota Ecclesia orat. 3 Hoc fuit officium olim sacrificatoris, in quo nulla cæremonia continetur.
@@ -683,7 +686,9 @@ Ergo cùm sint hæc tria præcipua pastoris munera et officia, Docere, Corriper
 Precationem autem hîc seorsim persequitur, quia est ministerii Euangelici pars præcipua, vti diximus.
 Magnam autem vim esse huius publicæ precationis, et magnam illius habendam esse curam à pastore, docent hæc verba Pauli et commendatio, ante omnia πρῶτον πάντων.
 Est enim comparatio, et commendatio huius exercitij, tanquam omnino necessarij in Ecclesia Christi, et vtilissimi, denique retinendi.
-Neque tamen hæc verba confirmant, vel iuuant Audæorum siue Messalaniorum hæreticorum errorem, qui puppim et proram salutis in precationibus, id est, certis statísque horis factis orationibus et de murmurationibus (quod hodie faciunt Monachi Papistici) ponebant: sed tantùm docet Paulus, quàm debeamus sedulò et diligenter precari Deum: et quàm solicitum de eo debeat esse non modo pastoris, sed singulorum etiam fidelium studiym.
+Neque tamen hæc verba confirmant, vel iuuant Audæorum siue Messalaniorum hæreticorum errorem, qui puppim et proram salutis in precationibus, id est, certis statísque horis factis orationibus et de murmurationibus (quod hodie faciunt Monachi Papistici) ponebant: sed tantùm docet Paulus, quàm debeamus sedulò et diligenter precari Deum: et quàm solicitum de eo debeat esse non modo pastoris,
+#2012953.png# ###11 juillet 2024 ####
+sed singulorum etiam fidelium studiym.
 Preces enim publicas quidam impiissimè, etiam hodie contemnunt.
 Ait autem Paulus, Adhortor, Quæ vox negligentiam nostram perstringit, et arguit.
 Quanquam enim et Dei ipsius maiestas, et promissio iussióque: item fructus ipse, quem ex precibus nostris vberrimum sentimus, satis nos ad precandum excitare deberet, sumus tamen natura nostra mirè ad orandum frigidi, et torpentes.
