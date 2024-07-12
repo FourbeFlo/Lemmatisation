@@ -58,6 +58,7 @@ Crysosto. = Crysostomus ?
 
 => pour l'instant j'ai mis les noms propres abrégé au nominatif, même si c'est pas toujour leur fonction dans la phrase...
 => il faudrait mieux choisir l'ablatif pour les citations, ça correspond mieux en terme de fonction grammaticale
+Enchir 	Enchiridon abrévuation livre
 
 Listes des nom 
 
@@ -65,6 +66,7 @@ Luc. Lucas
 Crysosto. Crysostomus
 Ioan. Ioannes
 Tessal Thessalonicenses
+August. Augustinus
 D. T. Beza ?? Doctor Theodorus Beza
 6500 	D 	Dho 	NOMpro 	Numb=Sing 	( quemadmodum obseruauit D . T . 	Save 	
 6502 	T 	None 	None 	None

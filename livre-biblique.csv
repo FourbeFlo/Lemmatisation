@@ -14,6 +14,7 @@ Chron,Chronicon,II Par,Chroniques 2e livre
 ,,Sir,Ecclésiastique (ou Sirac)
 ,,Phlm,Épître à Philémon
 Timot,Timotheus,I Tim,"Épître à Timothée, 1re"
+Tim, Timotheus,I Tim,"Épître à Timothée, 1re"
 Timot,Timotheus,II Tim,"Épître à Timothée, 2e"
 Tit,Titus,Tit,Épître à Tite
 Coloss,Colossenses,Col,Épître aux Colossiens
@@ -27,24 +28,27 @@ Romanor,Romani,Rm,Épître aux Romains
 ,,I Th,"Épître aux Thessaloniciens, 1re"
 ,,II Th,"Épître aux Thessaloniciens, 2e"
 ,,Iac,Épître de Jacques
-Ioann,Ioannes,I Io,"Épître de Jean, 1re"
-Ioann,Ioannes,II Io,"Épître de Jean, 2e"
+,,I Io,"Épître de Jean, 1re"
+,,II Io,"Épître de Jean, 2e"
 ,,III Io,"Épître de Jean, 3e"
 ,,Iud,Épître de Jude
 ,,I Pt,"Épître de Pierre, 1re"
 ,,II Pt,"Épître de Pierre, 2e"
 ,,I Esr,Esdras
 ,,Est,Esther
-,,Io,Évangile de Jean
+Ioa,Ioannes,Io,Évangile de Jean
+Ioan,Ioannes,Io,Évangile de Jean
+Ioann,Ioannes,Io,Évangile de Jean
 ,,Lc,Évangile de Luc
 ,,Mc,Évangile de Marc
 Math,Matthaeus,Mt,Évangile de Matthieu
 Matth, Matthaeus, Mt, Évangile de Matthieu
-,,Ex,Exode
+Matt, Matthaeus, Mt, Évangile de Matthieu
+Exod,,Ex,Exode
 ,,Ez,Ézéchiel
 Genes,Genesis2,Gn,Genèse
 ,,Hab,Habacuc
-,,Is,Isaïe
+Isai,,Is,Isaïe
 ,,Ier,Jérémie
 ,,Iob,Job
 ,,Ioel,Joël
@@ -56,6 +60,7 @@ Genes,Genesis2,Gn,Genèse
 ,,,Lettre de Jérémie
 ,,Lv,Lévitique
 ,,I Mcc,Maccabées 1er livre
+Machab, Machabaei,I Mcc,Maccabées 1er livre
 ,,II Mcc,Maccabées 2e livre
 Malach,Malachias,Mal,Malachie
 ,,Mi,Michée
