@@ -687,7 +687,7 @@ Precationem autem hîc seorsim persequitur, quia est ministerii Euangelici pars
 Magnam autem vim esse huius publicæ precationis, et magnam illius habendam esse curam à pastore, docent hæc verba Pauli et commendatio, ante omnia πρῶτον πάντων.
 Est enim comparatio, et commendatio huius exercitij, tanquam omnino necessarij in Ecclesia Christi, et vtilissimi, denique retinendi.
 Neque tamen hæc verba confirmant, vel iuuant Audæorum siue Messalaniorum hæreticorum errorem, qui puppim et proram salutis in precationibus, id est, certis statísque horis factis orationibus et de murmurationibus (quod hodie faciunt Monachi Papistici) ponebant: sed tantùm docet Paulus, quàm debeamus sedulò et diligenter precari Deum: et quàm solicitum de eo debeat esse non modo pastoris,
-#2012953.png# ###11 juillet 2024 ####
+#2012953.png#
 sed singulorum etiam fidelium studiym.
 Preces enim publicas quidam impiissimè, etiam hodie contemnunt.
 Ait autem Paulus, Adhortor, Quæ vox negligentiam nostram perstringit, et arguit.
@@ -702,7 +702,9 @@ Sed ex hoc ipso loco definiri potest, Quid sit oratio, et quot illius sint gener
 Precandus est igitur Deus quod extra dubium est, et concedunt non modo Christiani homines: sed etiam Ethnici et profani, vt et Tertullian. in libro de Testim. conscientiæ, et Iustinus Martyr in lib. de Monarchia Dei copiosè docent: item, Iuuenalis, Persius, et Horatius et alii poëtæ id docent.
 Homerus, et Virgilius, qui suos inducunt preces fundentes ad Deũ, et eum inuocantes.
 Nec gens vlla est, quæ si testimonium et vocem propriæ conscientiæ audiat, hoc axioma neget esse verum, vel refutet.
-Vult autem Paulus fieri deprecationes, preces postulationes, et gratiarum actiones.
+Vult autem Paulus fieri deprecationes, preces
+#2012954.png#
+postulationes, et gratiarum actiones.
 In quo primum est obseruandum non temere tot voces esse simul congestas, sed partim vt precandi assiduitatem et studium inflammet, incitet et iniiciat nobis his tot verbis, nósque excitet, quemadmodum dixi: partim verò vt diuersa esse precationum genera ostendat, quemadmodum diuersi sunt hominum affectus, diuersa hominum conditio, diuersa nostri status ratio, et ita pastor scitè accommodet quæ sunt cuiusque orationis generis propria.
 Denique, vt ostenderet Paulus, regum, et principum, cæterorúmque hominum commemorationem in nullo precum genere omittendam esse, tot species commemorauit, itáque omnes negligentiæ tollit excusationes.
 Cap.1.
@@ -714,12 +716,14 @@ Nec enim orationem vocabant quæ intus et corde tantùm conciperetur, non etiam
 Vnde orationis vim in dicendo maximam et in gestu esse respondent.
 Varro lib. 5. de lingua Latina.
 Hebræi vocant תפלה à iudicando, quia deiici nos coram Deo necesse est, si verè precari velimus, id quod ex animo sensúq; nostræ inopiæ facilè fiet.
-Definitur etiam oratio Dei veneratio animi nostri vota et affectus illi pandens, vt auxilium ab eo impetremus.
-Id colligitur ex Tertulliano, et Psal. 142.vers.2 QQuotuplex autem sit oratio quæritur, Resp.
+Definitur etiam oratio Dei veneratio animi nostri vota et affectus illi pandens,
+#2012955.png#
+vt auxilium ab eo impetremus.
+Id colligitur ex Tertulliano, et Psal. 142.vers.2 *Quotuplex* autem sit oratio quæritur, Resp.
 Est duplex, Implorans eáq; pro nobis, vt Bona det Deus, Mala auertat et auerruncet: vel pro aliis.
 Et Agens gratias, Est Εὐχαριστία Psal.22.
 Quæ inuocat et petit αἴτησις appelletur nomine generali, et oratio siue ἀχὴ  Quæ verò pro nobis ipsis postulat à Deo bona προς ἀχὴ  dicitur, vt Psal 61.
-Quæ petit vt à nobis auerruncentur et abigantur mala, δένσις vti Psal. 14o.
+Quæ petit vt à nobis auerruncentur et abigantur mala, δένσις vti Psal.*142*.
 Quæ pro alijs interpellat et intercedit apud Deum est ἔντάξις, vel μεσιτεία.
 Hæc tot sunt genera precationum publicarum.
 Vide tamen August.
@@ -735,7 +739,9 @@ Sed de publicis precibus hîc agimus.
 Primùm igitur Pastores debent precari publicé.
 Ad eos enim hæc res pertinet.
 Sed etiam ex veteri Ecclesiæ disciplina Diaconi possunt et Presbyterij etiam ij, qui doctrinam non tractãt.
-Eorum enim muneri preces adiunctas fuisse scriptum est, in canon Perlectis 5 ad Diaconũ dist. 25 et apud Socratem Scholast. lib, 2.
+Eorum enim muneri preces adiunctas fuisse scriptum est, in canon Perlectis 5 ad Diaconũ dist. 25
+#2012956.png#
+et apud Socratem Scholast. lib, 2.
 Histor. cap.11. etiam præsente Episcopo, quanquam eodẽ præsente sacramenta administrare Diaconus non potuit, vt est in cano.
 Peruenit distinct 93.nisi ab Episcopo iussus esset.
 Quod autem obiici potest de Solomone, qui, adstante summo sacrificator, etamẽ preces publi cas pro populo fudit, vt est 1.
@@ -753,7 +759,9 @@ Communia enim humanitatis officia tantùm illis tribui oportere: non autem hæc
 Durand. in lib.3.
 Sentent. distin. 3o. quæst. 1.et Thomas in 2. 2æ quæst. 25.
 Quæ sentẽtia quàm sit falsa docet Christus ipse Matt. 5,vers. 44.
-Precamini pro ijs, ait, qui vos infestãt. item docet hîc Paulus qui iubet nos precari pro. regibus, qui tunc proculdubio erant infesti hostes Christiani nominis, et persecutores.
+Precamini pro ijs, ait, qui vos infestãt. item docet hîc Paulus qui iubet nos precari pro. regibus,
+#2012957.png#
+qui tunc proculdubio erant infesti hostes Christiani nominis, et persecutores.
 Quæritur verò vtrum pro excommunicatis et hæreticis sit in publicis precibus precãdus Deus.
 Nam qui orat cum excommunicato, est et ipse excommunicatus canon.
 Qui communicauerit 1I.quæst.3. qui canon est ex consil.
@@ -770,7 +778,9 @@ Machab. 12. vers.43, et a5. afferunt.
 Primùm enim non sic legitur, vt legunt, Bonum est orare pro mortuis, et totus ille locus pertinet ad spem de resurrectione carnis, non ad preces pro mortuis.
 Deinde quod est vers.4o.
 Res est igitur salutaris et sancta, planè glossema esse apparet.
-Denique nec fidem meretur ille totus liber cùm sit Apocryphus, et excusationem authoris longe à Canonicis libris dissimilem contineat cap.15v.39.
+Denique nec fidem meretur ille totus liber cùm sit Apocryphus, et excusationem authoris longe à Canonicis
+#2012958.png#
+libris dissimilem contineat cap.15v.39.
 Afferuntur igitur testimonia veterum, imprimis autem Augustini lib. de Cura pro mortuis cap. 18. quod canonizatur (vt vocant) cano.
 Non æstimemus 13 quęst.2. item aliud eiusdem Augustini dictum cap. 11o. in Enchirid.
 Sed etiam Arnobius vetus scriptor Ecclesiasticus idem confirmat lib. 4.
@@ -785,7 +795,9 @@ In præsenti seculo siue orationibus siue consilijs inuicem posse nos iuuari.
 Cùm autem ante tribunal Christi venerimus, nec Iob, nec Noe, nec Daniel, rogare posse pro quoquam.
 Quam sententiam Papistæ ipsi in suos canones retulerũt cano. in præsenti 13 dist.2.
 Origo autem huius mali ex paruis initiis cepit.
-Primùm ex eo quod cepit piorum, qui pro nomine Christi passi erant, et mortui, in Ecclesia et imprimis in Synaxi, publica mentio publicè fieri.
+Primùm ex eo quod cepit piorum, qui pro nomine Christi passi erant, et mortui, in Ecclesia et imprimis
+#2012959.png#
+in Synaxi, publica mentio publicè fieri.
 Vnde Martyrologia nata sunt, qui sunt libri in quibus nomina Martyrum descripta erant, quæ ex scripto in communicatione Cœnæ recitabantur.
 Inde ad eorum sepulchra ceperunt homines precari, et vigilias agere, et liba offerre, vt docet Augustinus in lib. de Moribus Ecclesiast. cap.14. et Epist.119. quem tamen morem idem Epist.64 sublatum et abolitum esse cupit.
 Addunt Papistæ quasdam exceptiones alias, quæ sunt nullius momenti.
