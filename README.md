@@ -55,7 +55,7 @@ List of problems seen during lemmatisation. this list serves as a personal remin
 
 6. morphology: 
 
-## possible solution
+## possible solutions
 
 * link the abbreviation with the full lemma, but there is still the problem of morphology. either don't fill in the information (empty) or choose the most likely case (often the ablative because it is a textual reference).
 
