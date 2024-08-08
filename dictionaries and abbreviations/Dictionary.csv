@@ -1,202 +1,202 @@
-id, token,	lemma,	pos, varia,
-135,Auracio,Auracium, NOMpro, Auray localisation,
-133,Guliemo, Gulielmus, NOMpro,,
-137,Nassauao, Nassauaus, ADJqua, Nassau (Comté),
-144,Hollandia, Hollandia, NOMpro,,
-146,Zelandia, Zelandia, NOMpro, Seeland,
-213,animisensus, animi sensus,Nomcom, les sens de l'âme? sens internes
-711,consarcinat, consarcino, VER, pas dans le dictionnaire
-921,politia, politia, NOMcom, res publica
-928,Bertramus, Bertramus, NOMpro, 
-948,Leuitica, leuiticus,ADJqua, vocabulaire lat. chr.
-968,Leuitarũ, leuitaris,ADJqua, vocabulaire lat. chr.
-1003,ceremonialis, caeremonialis, ADJqua, vocabulaire lat. chr.
-1030,delineatio, delineatio, NOMcom, vocabulaire lat. chr.
-1158,synodorum, synodus, NOMcom, vocabulaire lat. chr.
-1388,1,1, ADJcar, chiffre arabe
-1403,2,2, ADJcar, chiffre arabe
-1413,3,3, ADJcar, chiffre arabe
-1380,4,4, ADJcar, chiffre arabe
-1426,consistorium,consistorium,NOMcom, vocabulaire lat. chr. 
-1450,abstenti, abstentus, VER, vocabulaire lat. chr. 
-1453,excommunicati, excommunico, VER, vocabulaire lat. chr.  
-1647,metropolitana, metropolitanus, ADJqua, vocabulaire lat. chr.
-1662,eleuatione, 	eleuatio, NOMcom, vocabulaire lat. chr.
-1682,accidentaria, accidentarius, ADJqua, vocabulaire lat. scol (opposition à essentialia)
-1931,Monarchicum, monarchicus, ADJqua, neolatin
-1934,Aristocraticũ, aristocraticus, ADJqua, neolatin
-1996,excommunicatio,excommunicatio,NOMcom, vocabulaire lat. chr.
-2049,accidentalibus, accidentalis, ADJqua, vocabulaire lat. chr.
-2126,quadrimestria, quadrimestris,ADJqua, vocabulaire technique
-2169,idololatra, idololatra, NOMcom, vocabulaire lat. chr. 
-2314,politicis, politicus, ADJqua, vocabulaire technique
-2375,scopus, scopus, NOMcom, vocabulaire latin médival (objectif but),  
-2440,legislator,legislator, NOMcom, vocabulaire lat. chr.
-2616,scrutator, scrutator, NOMcom, vocabulaire p.c.
-2731,hallucinari, alucinor,VER, vocabulaire technique
-2857,Oecumeniis, Oecumenius, NOMpro, neolatin (nom des commentaires grecs du noveau testament)
-2883,Oecumenicæ, oecumenicus, ADJqua, vocabulaire lat. chr. 
-3435,Spensæus, Spensaeus,NOMpro, Claude d'Espence
-3449,Digressionum, digressio, NOMcom, vocabulaire technique
-3513,tenebriones, tenebrio, NOMcom, latin technique 
-3529,matȩologia, mataeologia, NOMcom, neolatin calque grec : ματαιολογία  
-3581,cæteroquin, ceteroquin, AVD, latin technique
-3640,demisissimo, demisissimus, ADJqua, latin moderne
-3856, 	Ph, Ph, NOMpro, nom abregé
-3858,Marnixij, Marnixius, NOMpro, Marnixius
-3862,Aldegõdij, Aldegondius, NOMpro, 
-3869,Taffinus, Taffinus, NOMpro,
-3969,Ludouico, Ludouicus, NOMpro, 
-4087,triumphator, triumphator, NOMcom, latin p.c. 
-4157,᾽,᾽,PUNC, ponctuation grec ancien
-4201, E,E, NOMpro, nom abrégé
-4247, Geneuę, 	Geneua, 	NOMpro, Genève 
-4256,CꟾↃ,1000, ADJcar, 1000
-4257,ꟾↃ,500, ADJcar, 500
-4258,LXXVII, 77, ADJcar, 77
-4281, 	23, 	23, ADJcar, 23
-4285, 	371, 	371, ADJcar
-4291, 	6, 	3, 	ADJcar,
-4293,V,5,ADJcar,5
-4295, 	9, 	9, 	ADJcar,
-4298, 	1o, 10, ADJcar,
-4301, 	445, 445, 	 ADJcar, 	
-4318, 	2o, 20, ADJcar,
-4322, 	319, 	319, 	ADJcar,
-4342, 	240, 	240, 	ADJcar,
-4360, 	188, 	188, 	ADJcar,
-4370, 	16, 	16, 	ADJcar,
-4383, 	8, 	8, 	ADJcar,
-4401, 	157, 	157, 	ADJcar,
-4416, 	161, 	161, 	ADJcar,
-4431, 	22, 	22, 	ADJcar, 
-4435, 	341, 	341, 	ADJcar,	
-4454, 	131, 	131, 	ADJcar,
-4471, 	107, 	107, 	ADJcar,
-4487, 	101, 	101, 	ADJcar,
-4538, Exomologesi, 	exomologesis, 	NOMcom, lat. chr. 
-4588, 	Monialibussiue, 	monialis, 	NOMcom,lat. chr. 
-4590, 	Nonnis, 	nonna, 	NOMcom, lat. chr.
-4624, 	13, 	13, 	ADJcar, 	
-4628, 	3o5,    305, ADJcar,
-4708, 	7o, 	70, 	ADJcar, 
-4723, 	78, 	78, 	ADJcar	
-4742, 	252, 	252, 	ADJcar,
-4750, 	3o2, 	302, 	NOMcom, lat. chr.
-4753, 	Diaconissis, 	diaconissa, 	NOMcom, lat. chr.
-4764, 	271, 	271, 	ADJcar,
-4790, 	Danæi, 	Danaeus, 	NOMpro,
-5151, 	Chrysosto, 	Chrysostomus, 	NOMpro, lat chr.
-5205, 	epigraphỹ, 	epigraphium, 	NOMcom, lat. méd.
-5331, 	impostorũ, 	impostor, 	NOMcom, lat p.c.
-5596, 	fictitius, 	ficticius, ADJqua, lat. technique
-5882, 	stylum, 	stylus, 	NOMcom, lat med. 
-5943, 	acceptatio, 	acceptatio, 	NOMcom, lat. chr.
-6415, 	Papali, papalis, ADJqua, lat. med.
-6504, 	Beza, 	Beza, 	NOMpro, Bèze 
-6503, T, @abr.pN, NOMpro, abréviation de nom de personne
-6548, Colossenses, Colossenses, NOMpro, latin chré., Livres biblique les Colossiens
-6603, Apocalyp, Apocalypsis, NoOMpro, abréviation de livre biblique ,livre biblique
-6626, 	puritate, 	puritas, 	NOMcom, latin chr.,
-6631, 	pseudofratres, 	pseudofater,  NOMcom, lat. chr.
-6710, 	Malach, 	Malachias, 	NOMpro,  abréviation de livre biblique ,livre biblique
-6844, 	percensio, 	percensio, 	NOMcom, latin tard, rescension 
-6859, 	hypothesi, 	hypothesis, 	NOMcom, lat. chr.
-6865, 	thesin, 	thesis, 	NOMcom, lat. chr.
-6899, 	Æonibus, 	aeon, 	NOMcom, lat. chr.,éon (αἰών)
-7011, 	14, 	14, ADJcar,
-7252, 	Faustum, 	Faustus, 	NOMpro,
-7292, 	archiuis, 	archiuum, 	NOMcom,
-7318, 	Num, Numeri, NOMpro, abr. livres bibliques
-7327, 	Nehem, 	Nehemias, 	NOMpro, abr. livres bibliques
-7368, 	Chron, 	Chronicon, 	NOMpro,abr. livres bibliques
-7623, 	Theologiæ, 	theologia, NOMcom, lat. chr. 
-7762, 	curiositati, 	curiositas, 	NOMcom, lat. clas.?
-7861, 	theoriticus, 	theoreticus, 	ADJqua, lat. chr. , spéculatif
-7863, 	practicus, 	practicus, 	ADJqua, lat. chr.
-7909, 	Theoria, 	theoria, NOMcom, lat. chr.
-7947, 	mechanico, 	mechanicus, ADJqua, lat. chr.
-8388, 	circunstantias, 	circumstantia,	NOMcom, lat tech
-8414, 	attestari, 	attestor, VER, lat tech
-8486, 	hypocriticam, 	hypocriticus, 	ADJqua, neolatin
-8627, 	Manichei, 	manichaeus, 	NOMcom, lat. chr.
-8659, 	myriades, 	myrias, 	NOMcom,
-8700, 	increatum, 	increatus, 	ADJqua,
-8711, 	realitates, 	realitas, 	NOMcom, lat. med.
-8713, 	notionalitates, 	notionalitas, 	NOMcom,voc. lambert?
-8800, 	purgatorij, 	purgatorium, 	NOMcom,lat. chré
-8815, 	Erasmum 	Erasmus 	NOMpro
-8863, 	vaniloquium, 	uaniloquium, 	NOMcom, lat. chré. 
-8865, 	quantunuis, 	quantumuis, 	CONsub, lat. tech
-8874 	Epitheta 	epithetum 	NOMcom lat. tech.
-8974, 	cæcutire, 	caecutio, 	VER, lat tech
-9009, 	siquis, 	siquis, PROind, lat si aliquis/si quis ou siquis
-9014, 	Hypophora, 	hypophora, 	NOMcom,lat tard, 	
-9140, 	Papistarum, 	papista, 	NOMcom, neolatin, les papistes
-9241, 	Marcionitas, 	Marcionita, 	NOMcom, lat tard (tert), ae m. celui qui appartient a la secte de Marcio
-9409, 	paronomasia, 	paronomasia, 	NOMcom, voc. techn
-9502, 	Respon, 	responsa, 	NOMcom, lat med, le Répons
-9602, 	patricidis, 	patricida, 	NOMcom, lat tard,  
-9632, 	’, 	’, 	PUNC, greek elision
-9795 	Cæremonialis 	Caeremoniale 	NOMpro, lat modern. livre de Cérémonie XVI
-9927, 	immorigeri, 	immoriger, 	ADJqua, lat. tard. 
-10008, 	Pelagius, 	Pelagius, 	NOMpro, nom propre
-10167, 	Ethicis, 	ethicus, 	ADJqua, lat. tard., le nom est ici plus probalement à considérer comme le titre d'un traité de moral et donc à classer dans NOMpro..à voir
-10630, 	idoneitas, 	idoneitas, NOMcom, lat. tard., 
-10755, 	blasphemum, 	blasphemum, 	NOMcom, lat chr. , le latin hesite etre neutre et masculin pour la forme substantivée...chez lambert c'est neutre
-10797, 	blasphemus, 	blasphemus, ADJqua, lat. chr.,
-10922, 	Insectator, 	insectator, 	NOMcom, lat chr. 
-11127, 	excusabilis, 	excusabilis, 	ADJqua, lat class.
-11280, 	Genes, 	Genesis2, 	NOMpro, lat tard, livre bilbique : 2 est ajouter pour différencier de genesis la création
-11991, 	Epiphonema, 	Epiphonema, 	NOMpro, lat tech, 
-12084, 	immutabilitatis, 	immutabilitas, 	NOMcom 	, lat class. ,
-12350, 	durationem, 	duratio, 	NOMcom, lat. chr.,
-13107, 	dispunctio, 	dispunctio, 	NOMcom, lat tard.,
-13158, 	Regressio, 	regressio, 	NOMcom, lat. tard.
-13175, 	miraculosa, 	miraculosus, 	ADJqua, lat med. 	
-13387, 	acceptator, 	acceptator, 	NOMcom, lat. chr. 
-13418, 	Papatu, 	papatus, 	NOMcom, lat moderne
-13863, 	bombarda, 	bombarda, 	NOMcom, lat med.
-13906, 	desertione, 	desertio, 	NOMcom, lat. tard.
-14154, 	pseudopastorum, 	pseudopastor, 	NOMcom, lat chr, 
-14227, 	Papisticæ, 	papisticus, 	ADJqua, lat. méd.
-14499, 	Canonistæ, 	canonista, 	NOMcom, lat. chr.,
-14580, 	reipsa, 	reipsus, 	PROdem, lat. moderne
-14786, 	sacrificatoris, 	sacrificator, 	NOMcom, lat. chr.
-14883, 	seorsim, 	seorsim, 	ADV, lat. chr., à part
-14955, 	Audæorum, 	Audaeus, 	NOMcom, lat. chr., partisant de Audaeus
-14957, 	Messalaniorum, 	Messalanius, 	NOMcom, lat. chr., partisant de Messala
-15054, 	iussióque, 	jussio, 	NOMcom, lat. chr.,
-15222, 	Tertullian, 	Tertullianus, 	NOMpro, lat. chr. , abréviation
-15232, 	Iustinus, 	Iustinus, 	NOMpro, lat. chr.,
-15238, 	Monarchia, 	monarchia, 	NOMcom, lat. moderne.,
-15245, 	Iuuenalis, 	Iuuenalis, 	NOMpro, lat. class.,
-15289, 	axioma, 	axioma, 	NOMcom, lat. clas.
-15602, 	Quotuplex, 	quotuplex, 	ADJqua, lat. clas.,
-15687, 	142, 	142, 	ADJcar, numbre
-15712, 	August, 	Augustinus, 	NOMpro, lat. chr.,
-15933, 	etamẽ, 	etamem, 	ADV, lat moderne
-15966, 	Azarias, 	Azarias, 	NOMpro, lat. class. 
-16136, 	30, 	30, 	ADJcar, numbre,
-16194, 	proculdubio, 	proculdubio, 	ADV, lat. chr.,
-16307, 	subuersionem, 	subuersio, 	NOMcom, lat. clas.
-16404, 	Epiph, 	Epiphanius, NOMpro, lat. chr. 
-16424, 	Machab, 	Machabaei, 	NOMpro, abréviation livre biblique
-16484, 	glossema, 	glossema, 	NOMcom, lat. class.
-16497, 	Apocryphus, 	apocryphus, ADJqua, lat. chr., 
-16510, 	15, 	15, 	ADJcar, numbre
-16554, 	110, 	110, 	ADJcar, numbre
-16557, 	Enchirid, 	Enchiridon, 	NOMpro, lat tard., abréviation titre de livre
-16561, 	Arnobius, 	Arnobius, 	NOMpro, lat chr.,
-16664, 	Orthodoxi, 	orthodoxus, 	ADJqua, lat. chr., 
-16806, 	synaxi, 	synaxis, 	NOMcom, lat chr.
-16954, 	Braccarens, 	Bacarensis, 	ADJqua,lat class, de Braga
-16966, 	clericis, 	clericus, 	NOMcom, lat chr.
-16983, 	Tiburiensi, 	Tiburiensis, lat cla., ADJqua, de Tivoli
-17214, 	Apostatam, 	apostata, 	NOMcom, lat chr.
-17328, 	Apologet, 	Apologeticum, 	NOMpro, lat. chr., apologétique (genre de traité) 	
-17338, 	Donatistæ, 	Donatista, 	NOMcom, lat. chr., les donatistes 
-17576, 	punitionem, 	punitio, 	NOMcom, lat. tard.,
-17596, 	Castallionistæ, 	Castellionista, 	NOMcom, neolatin, partisan de Sébastien Castellion (adv de Calvin dans le mouvement réformé)
-17719, 	Anabaptistas, 	Anabaptista, 	NOMcom, neolatin, 
-18142, 	subseruire, 	subseruio, 	VER, lat. tard.,
+id,token,lemma,pos,level of language,varia
+135,Auracio,Auracium,NOMpro,,Auray localisation
+133,Guliemo,Gulielmus,NOMpro,,
+137,Nassauao,Nassauaus,ADJqua,,Nassau (Comté)
+144,Hollandia,Hollandia,NOMpro,,
+146,Zelandia,Zelandia,NOMpro,,Seeland,
+213,animisensus,animi sensus,Nomcom,,les sens de l'âme? sens internes
+711,consarcinat,consarcino,VER,pas dans le dictionnaire,
+921,politia,politia,NOMcom,,res publica
+928,Bertramus,Bertramus,NOMpro,,
+948,Leuitica,leuiticus,ADJqua,vocabulaire lat. chr.,
+968,Leuitarũ,leuitaris,ADJqua,vocabulaire lat. chr.,
+1003,ceremonialis,caeremonialis,ADJqua,vocabulaire lat. chr.,
+1030,delineatio,delineatio,NOMcom,vocabulaire lat. chr.,
+1158,synodorum,synodus,NOMcom,vocabulaire lat. chr.,
+1388,1,1,ADJcar,chiffre arabe,
+1403,2,2,ADJcar,chiffre arabe,
+1413,3,3,ADJcar,chiffre arabe,
+1380,4,4,ADJcar,chiffre arabe,
+1426,consistorium,consistorium,NOMcom,vocabulaire lat. chr.,
+1450,abstenti,abstentus,VER,vocabulaire lat. chr.,
+1453,excommunicati,excommunico,VER,vocabulaire lat. chr.,
+1647,metropolitana,metropolitanus,ADJqua,vocabulaire lat. chr.,
+1662,eleuatione,eleuatio,NOMcom,vocabulaire lat. chr.,
+1682,accidentaria,accidentarius,ADJqua,vocabulaire lat. scol, opposition à essentialia
+1931,Monarchicum,monarchicus,ADJqua,neolatin,
+1934,Aristocraticũ,aristocraticus,ADJqua,neolatin,
+1996,excommunicatio,excommunicatio,NOMcom,vocabulaire lat. chr.,
+2049,accidentalibus,accidentalis,ADJqua,vocabulaire lat. chr.,
+2126,quadrimestria,quadrimestris,ADJqua,vocabulaire technique,
+2169,idololatra,idololatra,NOMcom,vocabulaire lat. chr.,
+2314,politicis,politicus,ADJqua,vocabulaire technique,
+2375,scopus,scopus,NOMcom,vocabulaire lat. med., objectif but
+2440,legislator,legislator,NOMcom,vocabulaire lat. chr.,
+2616,scrutator,scrutator,NOMcom,vocabulaire p.c.,
+2731,hallucinari,alucinor,VER,vocabulaire technique,
+2857,Oecumeniis,Oecumenius,NOMpro,neolatin, nom des commentaires grecs du noveau testament
+2883,Oecumenicæ,oecumenicus,ADJqua,vocabulaire lat. chr.,
+3435,Spensæus,Spensaeus,NOMpro,,Claude d'Espence
+3449,Digressionum,digressio,NOMcom,vocabulaire technique,
+3513,tenebriones,tenebrio,NOMcom,latin technique,
+3529,matȩologia,mataeologia,NOMcom,neolatin, calque grec : ματαιολογία
+3581,cæteroquin,ceteroquin,AVD,latin technique,
+3640,demisissimo,demisissimus,ADJqua,latin moderne,
+3856,Ph,Ph,NOMpro,,nom abregé
+3858,Marnixij,Marnixius,NOMpro,,Marnixius
+3862,Aldegõdij,Aldegondius,NOMpro,,
+3869,Taffinus,Taffinus,NOMpro,,
+3969,Ludouico,Ludouicus,NOMpro,,
+4087,triumphator,triumphator,NOMcom,latin p.c.,
+4157,᾽,᾽,PUNC,,ponctuation grec ancien
+4201,E,E,NOMpro,,nom abrégé
+4247,Geneuę,Geneua,NOMpro,,Genève
+4256,CꟾↃ,1000,ADJcar,,
+4257,ꟾↃ,500,ADJcar,,
+4258,LXXVII,77,ADJcar,,
+4281,23,23,ADJcar,,
+4285,371,371,ADJcar,
+4291,6,3,ADJcar,,
+4293,V,5,ADJcar,,
+4295,9,9,ADJcar,,
+4298,1o,10,ADJcar,,
+4301,445,445,ADJcar,,
+4318,2o,20,ADJcar,,
+4322,319,319,ADJcar,,
+4342,240,240,ADJcar,,
+4360,188,188,ADJcar,,
+4370,16,16,ADJcar,,
+4383,8,8,ADJcar,,
+4401,157,157,ADJcar,,
+4416,161,161,ADJcar,,
+4431,22,22,ADJcar,,
+4435,341,341,ADJcar,,
+4454,131,131,ADJcar,,
+4471,107,107,ADJcar,,
+4487,101,101,ADJcar,,
+4538,Exomologesi,exomologesis,NOMcom,lat. chr.,
+4588,Monialibussiue,monialis,NOMcom,lat. chr.,
+4590,Nonnis,nonna,NOMcom,lat. chr.,
+4624,13,13,ADJcar,,
+4628,3o5,305,ADJcar,,
+4708,7o,70,ADJcar,,
+4723,78,78,ADJcar,,
+4742,252,252,ADJcar,,
+4750,3o2,302,NOMcom,lat. chr.,
+4753,Diaconissis,diaconissa,NOMcom,lat. chr.,
+4764,271,271,ADJcar,,
+4790,Danæi,Danaeus,NOMpro,,
+5151,Chrysosto,Chrysostomus,NOMpro,lat chr.,
+5205,epigraphỹ,epigraphium,NOMcom,lat. méd.,
+5331,impostorũ,impostor,NOMcom,lat p.c.,
+5596,fictitius,ficticius,ADJqua,lat. technique,
+5882,stylum,stylus,NOMcom,lat med.,
+5943,acceptatio,acceptatio,NOMcom,lat. chr.,
+6415,Papali,papalis,ADJqua,lat. med.,
+6504,Beza,Beza,NOMpro,,Bèze
+6503,T,@abr.pN,NOMpro,,abréviation de nom de personne
+6548,Colossenses,Colossenses,NOMpro,latin chré.,Livres biblique les Colossiens
+6603,Apocalyp,Apocalypsis,NoOMpro,abréviation de livre biblique,livre biblique
+6626,puritate,puritas,NOMcom,latin chr.,
+6631,pseudofratres,pseudofater,NOMcom,lat. chr.,
+6710,Malach,Malachias,NOMpro,abréviation de livre biblique,livre biblique
+6844,percensio,percensio,NOMcom,latin tard,rescension
+6859,hypothesi,hypothesis,NOMcom,lat. chr.,
+6865,thesin,thesis,NOMcom,lat. chr.,
+6899,Æonibus,aeon,NOMcom,lat. chr.,éon (αἰών)
+7011,14,14,ADJcar,,
+7252,Faustum,Faustus,NOMpro,,
+7292,archiuis,archiuum,NOMcom,,
+7318,Num,Numeri,NOMpro,abr. livres bibliques,
+7327,Nehem,Nehemias,NOMpro,abr. livres bibliques,
+7368,Chron,Chronicon,NOMpro,abr. livres bibliques,
+7623,Theologiæ,theologia,NOMcom,lat. chr.,
+7762,curiositati,curiositas,NOMcom,lat. clas.?,
+7861,theoriticus,theoreticus,ADJqua,lat. chr.,spéculatif
+7863,practicus,practicus,ADJqua,lat. chr.,
+7909,Theoria,theoria,NOMcom,lat. chr.,
+7947,mechanico,mechanicus,ADJqua,lat. chr.,
+8388,circunstantias,circumstantia,NOMcom,lat tech,
+8414,attestari,attestor,VER,lat tech,
+8486,hypocriticam,hypocriticus,ADJqua,neolatin,
+8627,Manichei,manichaeus,NOMcom,lat. chr.,
+8659,myriades,myrias,NOMcom,,
+8700,increatum,increatus,ADJqua,
+8711,realitates,realitas,NOMcom,lat. med.,
+8713,notionalitates,notionalitas,NOMcom,voc. lambert?,
+8800,purgatorij,purgatorium,NOMcom,lat. chré,
+8815,Erasmum, 	Erasmus, 	NOMpro,,
+8863,vaniloquium,uaniloquium,NOMcom,lat. chré.,
+8865,quantunuis,quantumuis,CONsub,lat. tech,
+8874, 	Epitheta, 	epithetum,	NOMcom, lat. tech.,
+8974,cæcutire,caecutio,VER,lat tech,
+9009,siquis,siquis,PROind,lat si aliquis/si quis ou siquis,
+9014,Hypophora,hypophora,NOMcom,lat tard,
+9140,Papistarum,papista,NOMcom,neolatin,les papistes
+9241,Marcionitas,Marcionita,NOMcom,lat tard (tert),ae m. celui qui appartient a la secte de Marcio
+9409,paronomasia,paronomasia,NOMcom,voc. tech.,
+9502,Respon,responsa,NOMcom,lat med,le Répons
+9602,patricidis,patricida,NOMcom,lat tard,
+9632,’,’,PUNC,,greek elision
+9795, 	Cæremonialis, 	Caeremoniale, 	NOMpro,neolatin, livre de Cérémonie XVI
+9927,immorigeri,immoriger,ADJqua,lat. tard.,
+10008,Pelagius,Pelagius,NOMpro,nom propre
+10167,Ethicis,ethicus,ADJqua,lat. tard.,le nom est ici plus probalement à considérer comme le titre d'un traité de moral et donc à classer dans NOMpro..à voir
+10630,idoneitas,idoneitas,NOMcom,lat. tard.,
+10755,blasphemum,blasphemum,NOMcom,lat chr.,le latin hesite etre neutre et masculin pour la forme substantivée...chez lambert c'est neutre
+10797,blasphemus,blasphemus,ADJqua,lat. chr.,
+10922,Insectator,insectator,NOMcom,lat chr.,
+11127,excusabilis,excusabilis,ADJqua,lat class.,
+11280,Genes,Genesis2,NOMpro,lat tard,livre bilbique : 2 est ajouter pour différencier de genesis la création
+11991,Epiphonema,Epiphonema,NOMpro,lat tech,
+12084,immutabilitatis,immutabilitas,NOMcom,lat class.,
+12350,durationem,duratio,NOMcom,lat. chr.,
+13107,dispunctio,dispunctio,NOMcom,lat tard.,
+13158,Regressio,regressio,NOMcom,lat. tard.,
+13175,miraculosa,miraculosus,ADJqua,lat med.,
+13387,acceptator,acceptator,NOMcom,lat. chr.,
+13418,Papatu,papatus,NOMcom,neolatin,
+13863,bombarda,bombarda,NOMcom,lat med.,
+13906,desertione,desertio,NOMcom,lat. tard.,
+14154,pseudopastorum,pseudopastor,NOMcom,lat chr,
+14227,Papisticæ,papisticus,ADJqua,lat. méd.,
+14499,Canonistæ,canonista,NOMcom,lat. chr.,
+14580,reipsa,reipsus,PROdem,neolatin,
+14786,sacrificatoris,sacrificator,NOMcom,lat. chr.,
+14883,seorsim,seorsim,ADV,lat. chr.,à part
+14955,Audæorum,Audaeus,NOMcom,lat. chr.,partisant de Audaeus
+14957,Messalaniorum,Messalanius,NOMcom,lat. chr.,partisant de Messala
+15054,iussióque,jussio,NOMcom,lat. chr.,
+15222,Tertullian,Tertullianus,NOMpro,lat. chr.,abréviation
+15232,Iustinus,Iustinus,NOMpro,lat. chr.,
+15238,Monarchia,monarchia,NOMcom,lat. moderne.,
+15245,Iuuenalis,Iuuenalis,NOMpro,lat. class.,
+15289,axioma,axioma,NOMcom,lat. clas.,
+15602,Quotuplex,quotuplex,ADJqua,lat. clas.,
+15687,142,142,ADJcar,,
+15712,August,Augustinus,NOMpro,lat. chr.,
+15933,etamẽ,etamem,ADV,neolatin,
+15966,Azarias,Azarias,NOMpro,lat. class.,
+16136,30,30,ADJcar,,
+16194,proculdubio,proculdubio,ADV,lat. chr.,
+16307,subuersionem,subuersio,NOMcom,lat. clas.,
+16404,Epiph,Epiphanius,NOMpro,lat. chr.,
+16424,Machab,Machabaei,NOMpro,,abréviation livre biblique
+16484,glossema,glossema,NOMcom,lat. class.,
+16497,Apocryphus,apocryphus,ADJqua,lat. chr.,
+16510,15,15,ADJcar,,
+16554,110,110,ADJcar,,
+16557,Enchirid,Enchiridon,NOMpro,lat tard.,abréviation titre de livre
+16561,Arnobius,Arnobius,NOMpro,lat chr.,
+16664,Orthodoxi,orthodoxus,ADJqua,lat. chr.,
+16806,synaxi,synaxis,NOMcom,lat chr.,
+16954,Braccarens,Bacarensis,ADJqua,lat class. ,de Braga
+16966,clericis,clericus,NOMcom,lat chr.,
+16983,Tiburiensi,Tiburiensis,ADJqua,lat class., de Tivoli
+17214,Apostatam,apostata,NOMcom,lat chr.,
+17328,Apologet,Apologeticum,NOMpro,lat. chr.,apologétique (genre de traité)
+17338,Donatistæ,Donatista,NOMcom,lat. chr.,les donatistes
+17576,punitionem,punitio,NOMcom,lat. tard.,
+17596,Castallionistæ,Castellionista,NOMcom,neolatin,partisan de Sébastien Castellion (adv de Calvin dans le mouvement réformé)
+17719,Anabaptistas,Anabaptista,NOMcom,neolatin,
+18142,subseruire,subseruio,VER,lat. tard.,
