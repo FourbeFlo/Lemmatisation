@@ -140,7 +140,7 @@ id,token,lemma,pos,level of language,varia
 9632,’,’,PUNC,,greek elision
 9795, 	Cæremonialis, 	Caeremoniale, 	NOMpro,neolatin, livre de Cérémonie XVI
 9927,immorigeri,immoriger,ADJqua,lat. tard.,
-10008,Pelagius,Pelagius,NOMpro,nom propre
+10008,Pelagius,Pelagius,NOMpro,,
 10167,Ethicis,ethicus,ADJqua,lat. tard.,le nom est ici plus probalement à considérer comme le titre d'un traité de moral et donc à classer dans NOMpro..à voir
 10630,idoneitas,idoneitas,NOMcom,lat. tard.,
 10755,blasphemum,blasphemum,NOMcom,lat chr.,le latin hesite etre neutre et masculin pour la forme substantivée...chez lambert c'est neutre
