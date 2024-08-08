@@ -9,7 +9,7 @@ lemmatisation data for topic modelling research in 16th century Reformed exegesi
 * dictionaries and abbreviations : dictionaries and abbreviations: list of words added to the vocabulary of the current language model, biblical abbreviation as used in Lambert's commentary.
 * test : data for testing the accuracy of the language model on heterogeneous corpora (next octobre)
 * file.tsv 
-* questions.txt : personal notes on problems and choosen solutions
+* questions.txt : personal notes on problems and choosen solutions, summarizes bellow
 
 # problem and choices for lemmatization
 
@@ -52,8 +52,6 @@ List of problems seen during lemmatisation. this list serves as a personal remin
 5. Printer's error
   in a few rare case some lettres are missing, it could be manually corrected for the lemmatization but not in the master file, because this is used for the OCR training. 
   - caneset for canescet
-
-6. morphology: 
 
 ## possible solutions
 
