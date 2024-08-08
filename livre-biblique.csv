@@ -10,7 +10,7 @@ Apocalyp,Apocalypsis,Apc,Apocalypse
 Chron,Chronicon,II Par,Chroniques 2e livre
 ,,Dn,Daniel
 ,,Dt,Deutéronome
-,,Ecl,Ecclésiaste (ou Qohelet)
+Ecclesiast,,Ecl,Ecclésiaste (ou Qohelet)
 ,,Sir,Ecclésiastique (ou Sirac)
 ,,Phlm,Épître à Philémon
 Timot,Timotheus,I Tim,"Épître à Timothée, 1re"
@@ -25,7 +25,8 @@ Galat,Galatae,Gal,Épître aux Galates
 Hebr,Hebraei,Hbr,Épître aux Hébreux
 ,,Phil,Épître aux Philippiens
 Romanor,Romani,Rm,Épître aux Romains
-,,I Th,"Épître aux Thessaloniciens, 1re"
+Tessalon,Thessalonicenses,I Th,"Épître aux Thessaloniciens, 1re"
+Thessal, Thessalonicenses,I Th,"Épître aux Thessaloniciens, 1re"
 ,,II Th,"Épître aux Thessaloniciens, 2e"
 ,,Iac,Épître de Jacques
 ,,I Io,"Épître de Jean, 1re"
@@ -48,7 +49,7 @@ Exod,,Ex,Exode
 ,,Ez,Ézéchiel
 Genes,Genesis2,Gn,Genèse
 ,,Hab,Habacuc
-Isai,,Is,Isaïe
+Isai,Isaias,Is,Isaïe
 ,,Ier,Jérémie
 ,,Iob,Job
 ,,Ioel,Joël
@@ -63,6 +64,7 @@ Isai,,Is,Isaïe
 Machab, Machabaei,I Mcc,Maccabées 1er livre
 ,,II Mcc,Maccabées 2e livre
 Malach,Malachias,Mal,Malachie
+Malac, Malachias,Mal,Malachie
 ,,Mi,Michée
 ,,Na,Nahum
 Nehem,Nehemias,II Esr,Néhémie

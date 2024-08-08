@@ -190,3 +190,14 @@ id, token,	lemma,	pos, varia,
 16557, 	Enchirid, 	Enchiridon, 	NOMpro, lat tard., abréviation titre de livre
 16561, 	Arnobius, 	Arnobius, 	NOMpro, lat chr.,
 16664, 	Orthodoxi, 	orthodoxus, 	ADJqua, lat. chr., 
+16806, 	synaxi, 	synaxis, 	NOMcom, lat chr.
+16954, 	Braccarens, 	Bacarensis, 	ADJqua,lat class, de Braga
+16966, 	clericis, 	clericus, 	NOMcom, lat chr.
+16983, 	Tiburiensi, 	Tiburiensis, lat cla., ADJqua, de Tivoli
+17214, 	Apostatam, 	apostata, 	NOMcom, lat chr.
+17328, 	Apologet, 	Apologeticum, 	NOMpro, lat. chr., apologétique (genre de traité) 	
+17338, 	Donatistæ, 	Donatista, 	NOMcom, lat. chr., les donatistes 
+17576, 	punitionem, 	punitio, 	NOMcom, lat. tard.,
+17596, 	Castallionistæ, 	Castellionista, 	NOMcom, neolatin, partisan de Sébastien Castellion (adv de Calvin dans le mouvement réformé)
+17719, 	Anabaptistas, 	Anabaptista, 	NOMcom, neolatin, 
+18142, 	subseruire, 	subseruio, 	VER, lat. tard.,
