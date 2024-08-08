@@ -23,14 +23,10 @@ List of problems seen during lemmatisation. this list serves as a personal remin
 
 3. abbreviation 
   - personnal name: 
-    *
-    * reference authors
-      |Eurip    | Euripidus |
-      |Crysosto |Crysostomus|
-      |August   | Augustinus|
-    * reference books
-      |Enchir   |Enchiridon|
-
+    * D. T. Beza : Doctor, Theodorus Beza
+    * reference authors : Eurip,  Euripidus; Crysosto, Crysostomus; August, Augustinus
+    * reference books: Enchir, Enchiridon
+    * 
   - dates :
     * Cal. kalendae 
 
@@ -49,7 +45,8 @@ List of problems seen during lemmatisation. this list serves as a personal remin
 
 4. 16th century texts: 
   - bilingual words (half greek-half latin scripture) : praxeωs cf. 2012897.png
-  - the problem of capital letters 
+  - the problem of capital letters
+    the word are considered as NOMpro because of the capital letter in LASLA
     * Ecclesia, Episcopus, Auctor, Monacus
 
 5. Printer's error
